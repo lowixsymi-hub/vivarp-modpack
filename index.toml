@@ -134,6 +134,10 @@ file = "mods/sound-physics-remastered-forge-1.20.1-1.4.10.jar"
 hash = "57ce3c7d5abe724d9fb82f3d068b7717a56b94b7d3ea98f90a2f9ca61c8f57b1"
 
 [[files]]
+file = "mods/tacz-emf-compat-1.0.1.jar"
+hash = "37456ef1ff1347d981081565ae5ff26bad12614311e627680920d13ecf110362"
+
+[[files]]
 file = "mods/timeless-and-classics-zero.pw.toml"
 hash = "c1e1644e1af423c59740258a3a23212af5dce7a4199bf1f4f260191cf985467b"
 metafile = true
@@ -151,3 +155,143 @@ metafile = true
 [[files]]
 file = "mods/voicechat-forge-1.20.1-2.6.17.jar"
 hash = "3652b89e06f69460a8f05e0bd8fcf2f74a5eb54e2d7296bb13f54cc8b67ef761"
+
+[[files]]
+file = "resourcepacks/FA+Player-v1/21-2/assets/minecraft/emf/cem/a_player_variables.jpm"
+hash = "d5c9ac2e77d533a68ed914ab015345ab29b42a03837c5ea6d6c830b0e8b3e582"
+
+[[files]]
+file = "resourcepacks/FA+Player-v1/21-2/assets/minecraft/emf/cem/player_cape.jem"
+hash = "d93fdabd61a33bebe0a8eb02a1762a14594e83e0321055879fc80cd998e6b305"
+
+[[files]]
+file = "resourcepacks/FA+Player-v1/21-2/assets/minecraft/emf/cem/player_inner_armor.jem"
+hash = "9c2b7159bbbd158fee1b9300ecd08bbec25a30315ffa8aeec7b2091bbf9f8e4e"
+
+[[files]]
+file = "resourcepacks/FA+Player-v1/21-2/assets/minecraft/emf/cem/player_outer_armor.jem"
+hash = "9c2b7159bbbd158fee1b9300ecd08bbec25a30315ffa8aeec7b2091bbf9f8e4e"
+
+[[files]]
+file = "resourcepacks/FA+Player-v1/21-2/assets/minecraft/emf/cem/player_slim_inner_armor.jem"
+hash = "9c2b7159bbbd158fee1b9300ecd08bbec25a30315ffa8aeec7b2091bbf9f8e4e"
+
+[[files]]
+file = "resourcepacks/FA+Player-v1/21-2/assets/minecraft/emf/cem/player_slim_outer_armor.jem"
+hash = "9c2b7159bbbd158fee1b9300ecd08bbec25a30315ffa8aeec7b2091bbf9f8e4e"
+
+[[files]]
+file = "resourcepacks/FA+Player-v1/21-5/assets/minecraft/emf/cem/a_player_variables.jpm"
+hash = "d373784370d6265ab8d8e8b9361e6c1ae30c062136cf4566a746a7be5dc714c5"
+
+[[files]]
+file = "resourcepacks/FA+Player-v1/FAterms&conditions.txt"
+hash = "fb8501560cf1d904f9ac9c59794039ab4d849b7fe958aba6fe81967b256e4400"
+
+[[files]]
+file = "resourcepacks/FA+Player-v1/assets/minecraft/emf/cem/a_player_equipment.jpm"
+hash = "192e57451f22a3c5f617ce5845290a50a915657a09dd14b9251c6d4de9480c91"
+
+[[files]]
+file = "resourcepacks/FA+Player-v1/assets/minecraft/emf/cem/a_player_firstperson.jpm"
+hash = "2febf5c375c8b715deee6a8e5c355418ce5a2832edcfcbaf5139cb1ee9bc84e6"
+
+[[files]]
+file = "resourcepacks/FA+Player-v1/assets/minecraft/emf/cem/a_player_idle.jpm"
+hash = "2bbb610f8fdf4cec96b1256ea891b3520ea06ecf9d880cfd177ebbc893bcba20"
+
+[[files]]
+file = "resourcepacks/FA+Player-v1/assets/minecraft/emf/cem/a_player_movement.jpm"
+hash = "741b305d8dc32e3ce8214338edc98d5679e09b2eeff78c7d8de19ac23b67ec48"
+
+[[files]]
+file = "resourcepacks/FA+Player-v1/assets/minecraft/emf/cem/a_player_variables.jpm"
+hash = "fbfc8569eadfe27fb919635e485dc25c9b3844cf4b281bc5956e8da5afc5ca0a"
+
+[[files]]
+file = "resourcepacks/FA+Player-v1/assets/minecraft/emf/cem/elytra.jem"
+hash = "f4fabbf1609f6923643a905c6a66644fe40e6b99c394f4c8c20ea2ec72dd2256"
+
+[[files]]
+file = "resourcepacks/FA+Player-v1/assets/minecraft/emf/cem/player.jem"
+hash = "116ea0b2bef92627c8dede9659a6a2ce19bd05e129280dc76581a92a9a6347a9"
+
+[[files]]
+file = "resourcepacks/FA+Player-v1/assets/minecraft/emf/cem/player.properties"
+hash = "974f0ba32280c88f62181cfb07f233408f59574bb49953bcf070e4107e7b8fd4"
+
+[[files]]
+file = "resourcepacks/FA+Player-v1/assets/minecraft/emf/cem/player_cape.jem"
+hash = "0925f51c7de5b08dc003c35a09e5c8ce9a9f2e8193694b1c1c6c7186f17f719e"
+
+[[files]]
+file = "resourcepacks/FA+Player-v1/assets/minecraft/emf/cem/player_slim.jem"
+hash = "9e7fee9d3b0ee031137c216b16a69556ff11b1628d6075d12d027f5151cbdb04"
+
+[[files]]
+file = "resourcepacks/FA+Player-v1/assets/minecraft/emf/cem/player_slim.properties"
+hash = "974f0ba32280c88f62181cfb07f233408f59574bb49953bcf070e4107e7b8fd4"
+
+[[files]]
+file = "resourcepacks/FA+Player-v1/assets/minecraft/textures/entity/equipment/humanoid_leggings/copper.png"
+hash = "ea4f9171d6c4408fb78f146a2608cef88dac8c3810c19afe6473eb6219bcaaca"
+
+[[files]]
+file = "resourcepacks/FA+Player-v1/assets/minecraft/textures/entity/equipment/humanoid_leggings/diamond.png"
+hash = "b14bd397b8eb793660aa02b5c0ae02aaefe9e7d67692eee2d7ed3a1dfcea328c"
+
+[[files]]
+file = "resourcepacks/FA+Player-v1/assets/minecraft/textures/entity/equipment/humanoid_leggings/gold.png"
+hash = "8e04e194364e845e17f9fc616635dfd290a32557563d515cf1f7fd72286f8a44"
+
+[[files]]
+file = "resourcepacks/FA+Player-v1/assets/minecraft/textures/entity/equipment/humanoid_leggings/iron.png"
+hash = "5b6d16852cdf565ba3c5015c6e3e14e581651f9403b7f5424a094e90ab6498de"
+
+[[files]]
+file = "resourcepacks/FA+Player-v1/assets/minecraft/textures/entity/equipment/humanoid_leggings/leather.png"
+hash = "b5d01f39dce61c6b30f1bf789c79ed3c8d9f81692f487650af92f8d8742c5bed"
+
+[[files]]
+file = "resourcepacks/FA+Player-v1/assets/minecraft/textures/entity/equipment/humanoid_leggings/netherite.png"
+hash = "bef167381c875b754534e48533f8938d8dce6f9bbdff86318d1de0143342567d"
+
+[[files]]
+file = "resourcepacks/FA+Player-v1/assets/minecraft/textures/models/armor/diamond_layer_2.png"
+hash = "b14bd397b8eb793660aa02b5c0ae02aaefe9e7d67692eee2d7ed3a1dfcea328c"
+
+[[files]]
+file = "resourcepacks/FA+Player-v1/assets/minecraft/textures/models/armor/gold_layer_2.png"
+hash = "8e04e194364e845e17f9fc616635dfd290a32557563d515cf1f7fd72286f8a44"
+
+[[files]]
+file = "resourcepacks/FA+Player-v1/assets/minecraft/textures/models/armor/iron_layer_2.png"
+hash = "5b6d16852cdf565ba3c5015c6e3e14e581651f9403b7f5424a094e90ab6498de"
+
+[[files]]
+file = "resourcepacks/FA+Player-v1/assets/minecraft/textures/models/armor/leather_layer_2.png"
+hash = "b5d01f39dce61c6b30f1bf789c79ed3c8d9f81692f487650af92f8d8742c5bed"
+
+[[files]]
+file = "resourcepacks/FA+Player-v1/assets/minecraft/textures/models/armor/netherite_layer_2.png"
+hash = "bef167381c875b754534e48533f8938d8dce6f9bbdff86318d1de0143342567d"
+
+[[files]]
+file = "resourcepacks/FA+Player-v1/pack.mcmeta"
+hash = "419ab85fd9571a46883dfca3f80f76285661e312ed73aa1b817cd2d8e8e4dbd0"
+
+[[files]]
+file = "resourcepacks/FA+Player-v1/pack.png"
+hash = "657160efea8dfe68c96dde72a389e38aeb0f6f2b725c0a28b7f5c7ff97b7ffc5"
+
+[[files]]
+file = "resourcepacks/FA+Player-v1/player_changelog1.1.txt"
+hash = "55be6686634fb782de2752f0620e6d1d1e45378eb1a48fe176187df8b19257e3"
+
+[[files]]
+file = "resourcepacks/Viva-RP Music.zip"
+hash = "5f0932f4ee666dd4098463895cdb92e57fa4dc2e8dbbb3519d21a8b9826cbecf"
+
+[[files]]
+file = "resourcepacks/custom-crosshair-mctools-2.zip"
+hash = "ef0c10108202383e4ce978645699d9d27cf85e0ae5be6199b768317e2337011a"

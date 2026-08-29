@@ -1,0 +1,20 @@
+
+Requires Entity Model Features and Entity Texture Features
+
+Added:
+- added new first person hand animations
+	- pitch and yaw rotations
+	- map holding poses
+
+Changes & Fixes:
+- tweaked head anims for compatibility
+- tweaked elytra models for compatibility
+- tweaked jump animations slightly
+- fixed landing animation to reset when falling down blocks quickly
+- fixed flying animations not working for other players
+- fixed some animations being affected by fps
+- fixed some equipment animations breaking after rotating the camera rapidly
+- fixed first person map hand poses
+- combined many files to simplify workflow and compatibility across game versions
+- removed some unused variables
+- other various tweaks/fixes
