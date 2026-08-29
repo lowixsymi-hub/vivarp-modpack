@@ -70,6 +70,10 @@ file = "mods/embeddium-0.3.31+mc1.20.1.jar"
 hash = "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb"
 
 [[files]]
+file = "mods/emf-compat-core-1.20.1-1.1.2.jar"
+hash = "872d86cd0b9e697b3fb672ffa98d0c0c1287f55d3500eb34a5a665b6dcc2f0ba"
+
+[[files]]
 file = "mods/entity_model_features-3.2.4-1.20.1-forge.jar"
 hash = "0984570913a154ef65ebca54ac797fec11721c5e24aeceeb285b8ca2f562b35e"
 
