@@ -45,12 +45,22 @@ file = "mods/VisualWorkbench-v8.0.1-1.20.1-Forge.jar"
 hash = "915f226fa14ce274879487dd14f38af5c57e1a9ada85099501134c4c8a03897a"
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "12c4913f51659fc1c0978004f411d9d9b878f589367e4fbe17ca5da60acbbce8"
+metafile = true
+
+[[files]]
 file = "mods/corpse-forge-1.20.1-1.0.23.jar"
 hash = "8d77c5fc8dc981c750a8e66d4665f055457f748f0ce49a303d9bc50347bdbf7c"
 
 [[files]]
 file = "mods/create-1.20.1-6.0.8.jar"
 hash = "6fbb910c367dbce8e4fc7e5bf64b6edd4de980906ed00af8e47e4af843c0d9b0"
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "6311134242af3f639923e825caea40821c7e7ee7caadf4105234f5d7fa44ec8b"
+metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
@@ -291,6 +301,2066 @@ hash = "657160efea8dfe68c96dde72a389e38aeb0f6f2b725c0a28b7f5c7ff97b7ffc5"
 [[files]]
 file = "resourcepacks/FA+Player-v1/player_changelog1.1.txt"
 hash = "55be6686634fb782de2752f0620e6d1d1e45378eb1a48fe176187df8b19257e3"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/20-3/assets/minecraft/optifine/cem/bat_animations.jpm"
+hash = "cb4c6a18bd00f8b559825c386225729c8d621f8f6e8a4eff30bfb21b520ced12"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-11/assets/minecraft/textures/entity/equipment/horse_body/leather.png"
+hash = "fe186036591633caf979b33d1b7a24b18c3456a1baf253e63b79df1fd1d72c7a"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/bogged_animations.jpm"
+hash = "a4e9eb108f749f955f840a5d0c45585b1413e49f7887545cafdb7bf86143ef7a"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/cat_animations.jpm"
+hash = "b22b0506b2d93c39e9a1cf6f0ac44b7910148e52528e1d78ef87514de162e336"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/cave_spider_animations.jpm"
+hash = "c2cdd12c05e5f43d44681a89830c74aef4e44a86f77b38a647ea0ea841c80c83"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/chicken_animations.jpm"
+hash = "717ff69ccdb46fcc6187e88faa4c97ed7b723d5d8567febea5695aebd9e653f7"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/cow_animations.jpm"
+hash = "169da7dce1ce40ddaf559e16478f754530abec6c837b391564afa98794e6153d"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/donkey.jem"
+hash = "d6f8cc05a825045c31bfb9eef2f90aba0576c3c086fe9ebffb811912122e13e9"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/donkey_animations.jpm"
+hash = "55def07bb85d2f61390991a06fefe94aee412cb2898477c9cdd63b61874c95b9"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/donkey_baby.jem"
+hash = "d6f8cc05a825045c31bfb9eef2f90aba0576c3c086fe9ebffb811912122e13e9"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/drowned_animations.jpm"
+hash = "bc35e277911b8b48f832735c9e1c246945dcf122a431c2ed182a627c9345d3fc"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/fox_animations.jpm"
+hash = "8a29b131ecc358c943cee1ad60bd7c090e1ff94c5586ee674d56c0af7f7607f8"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/giant_animations.jpm"
+hash = "1f395aa73d339544c70f53473ec9de226e3d8f42613de6dff620ba7f2ef4890f"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/glow_squid_animations.jpm"
+hash = "cbd7f4e26504b736c8ef7a1b6c4f742ebc2f376fc521e3ce4c0f8bec09ee0982"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/goat_animations.jpm"
+hash = "f81178a1aa64804c4710d275e378f02f3ef044a725e4f9c2e0bf7c9c3126953c"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/hoglin_animations.jpm"
+hash = "174a39b44a6f7c01f258ab16a02ea33eb387547a73a595d7b73e33e908c685ff"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/horse.jem"
+hash = "efa499dbb73eecbce2ec9e6edc3747ba8a705fe1cd59439037d8a55b68f78589"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/horse_animations.jpm"
+hash = "47a246482ff1e5069d24f6d52d2ecff0dff1ac661e77cb5586c4865250ad54e5"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/horse_armor.jem"
+hash = "eff7f9583b265902ebbf559a2b3c0602771a28702baaef39e9c671829310eb01"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/horse_armor_animations.jpm"
+hash = "087e628f7bb1de683e4622b13c802490bce713f99ae532ac5bda4393f5f476cb"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/horse_baby.jem"
+hash = "efa499dbb73eecbce2ec9e6edc3747ba8a705fe1cd59439037d8a55b68f78589"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/horse_baby_armor.jem"
+hash = "eff7f9583b265902ebbf559a2b3c0602771a28702baaef39e9c671829310eb01"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/husk_animations.jpm"
+hash = "f59e289e09e3df7ed8b71753aa04e4e4b5442ddc8dcf399b436da6ce167e4794"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/llama_animations.jpm"
+hash = "e44ef1eb98832e0e32c1f9831aa30a056d4cf1869ec9b54a48b07a9ab3b609f2"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/mooshroom_animations.jpm"
+hash = "16f2bfa9c07c319284eb36e3a194175650e795d0ed823e79b998982cff249998"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/mule.jem"
+hash = "ca2955e71bb04fe9417203f7e06bae3efb20350b54ec587a0473a933b51cb8a6"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/mule_animations.jpm"
+hash = "f09faf912826047b660728bff80b8abaef8ab96eaa2497b6390c5f4b29d6aa54"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/mule_baby.jem"
+hash = "ca2955e71bb04fe9417203f7e06bae3efb20350b54ec587a0473a933b51cb8a6"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/ocelot_animations.jpm"
+hash = "3ef64bf36c098ff0247964f52970595055298062ababecce10493e491b167021"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/parched.jem"
+hash = "de2ffb237ed78e14e32f1e9e1d265e04b461e6e5c59c321664a2f07abe4b5fe6"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/parched_animations.jpm"
+hash = "372ab077f80aedab74e446320e19ecd95607930f2e7168b3e6488f1df320eb1f"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/pig_animations.jpm"
+hash = "1a2969d59ade72bae15a01566ff5c580f3749b96e64fc0c4df8e2a1524e9422f"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/piglin_animations.jpm"
+hash = "46bbacdfb3bcee72b0337b5df7bd015abdacc4382b6cfc93075f653bf3866f20"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/piglin_brute_animations.jpm"
+hash = "ec7d761eaa7f247892e550111ebe4a7a009d632c660769504f7207e4c6616260"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/ravager_animations.jpm"
+hash = "ccdfce08d4b99a96b811b574887e2e586f569a6d303ee47ee14924b4ac77be81"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/salmon_animations.jpm"
+hash = "cbb4293bafcf90fbfc8cdaff1229dd8c628d4762f12623c0ba5e85fa9f8bd963"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/sheep_animations.jpm"
+hash = "8cdfbebb08e24d9c7d154e4e75771222cc7d535824b7d4c7d072853a93b6355f"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/skeleton_animations.jpm"
+hash = "f022c7dffaf33c918b45b867ed96df563933dc0ae2da6273c3bdca87d11c5bca"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/skeleton_horse.jem"
+hash = "b67622da23749469bf0973e5ebad78dbfacc722e86501ddaaea5bde87b115b4c"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/skeleton_horse_animations.jpm"
+hash = "b273825bbea469cb17f7a2dc3e84f0e7326c3c19278c35b5310eb13dbda72513"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/skeleton_horse_armor.jem"
+hash = "66fec28932373a4213224ff87bbcb092520437b93ce5c31bae217e4b2da51e19"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/skeleton_horse_baby.jem"
+hash = "b67622da23749469bf0973e5ebad78dbfacc722e86501ddaaea5bde87b115b4c"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/skeleton_horse_baby_armor.jem"
+hash = "66fec28932373a4213224ff87bbcb092520437b93ce5c31bae217e4b2da51e19"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/sniffer_animations.jpm"
+hash = "8b993870996be95489fdd7288c55fd5dca608f5141e57324696165cf6dab4bf9"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/spider_animations.jpm"
+hash = "d01f7c3a60122ca50ce20635f55db7bc466f487923daa90d72bf97f3daf3b159"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/squid_animations.jpm"
+hash = "d3552896f140e8a20971347092ee3e6406bc7df3fdd10b8d8638c08878e27708"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/stray_animations.jpm"
+hash = "5e11702463cea8d8409496c0a39478e427ce7c32f3ff98c037297d37b55dc0a4"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/turtle_animations.jpm"
+hash = "8fdf3f8766787a59221b83557c87612a9ea961cf2578b3814f956a0e76934ea6"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/wither_skeleton_animations.jpm"
+hash = "3c86ad2197100daf13c5e61b511e5fee69be2951db6b605b994061cad639a9af"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/wolf_animations.jpm"
+hash = "969a1b08e04fdc5fcc24a1e4b47ff339c2839e74e8a34d5d0399f5a4adbb5798"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/zombie_animations.jpm"
+hash = "151f11369c2c813f79b9fdf9724e5205233b9563920d03869403fff1a238dad0"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/zombie_horse.jem"
+hash = "d312903e587ea7c35206f6b8b62b0c492d379fe4e936962afd980e45b421e9de"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/zombie_horse_animations.jpm"
+hash = "b3bbff20961181aec98501fb793df91e605c91be63761ab314acb70c20cb8062"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/zombie_horse_armor.jem"
+hash = "66fec28932373a4213224ff87bbcb092520437b93ce5c31bae217e4b2da51e19"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/zombie_horse_armor_animations.jpm"
+hash = "f52cd49de010fc4779a9bd31ba4555bd291672965df459f862c6e9075dc659c4"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/zombie_horse_baby.jem"
+hash = "d312903e587ea7c35206f6b8b62b0c492d379fe4e936962afd980e45b421e9de"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/zombie_horse_baby_armor.jem"
+hash = "66fec28932373a4213224ff87bbcb092520437b93ce5c31bae217e4b2da51e19"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/zombie_villager_animations.jpm"
+hash = "6457e6d31579bf8f73a91bfdf1f9e7d7943760bfcd829519a8f68962d2a7c675"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-2/assets/minecraft/optifine/cem/zombified_piglin_animations.jpm"
+hash = "5a60c8aebc905f44d0048959aaf03496fb85061f59265c21a437f8b5eb6f2082"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-5/assets/minecraft/optifine/cem/cow.jem"
+hash = "d289c63e7332651f1e3800bbd8abd73e800c099c11891ba4b270f96c6c319ca1"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-5/assets/minecraft/optifine/cem/cow_baby.jem"
+hash = "d289c63e7332651f1e3800bbd8abd73e800c099c11891ba4b270f96c6c319ca1"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-5/assets/minecraft/optifine/cem/donkey.jem"
+hash = "80b92064654f7b17bed59763650f84f5b517264ec7c55004d2b6372f08027959"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-5/assets/minecraft/optifine/cem/donkey_baby.jem"
+hash = "80b92064654f7b17bed59763650f84f5b517264ec7c55004d2b6372f08027959"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-5/assets/minecraft/optifine/cem/donkey_baby_saddle.jem"
+hash = "5e228226a733df44a1b418c6cec07417ff80d5d03e65da18019414cf96ee256e"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-5/assets/minecraft/optifine/cem/donkey_saddle.jem"
+hash = "5e228226a733df44a1b418c6cec07417ff80d5d03e65da18019414cf96ee256e"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-5/assets/minecraft/optifine/cem/donkey_saddle_animations.jpm"
+hash = "a32a0b7c5652710acfac953841486018b924c3f70edd64136644548639696d96"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-5/assets/minecraft/optifine/cem/horse.jem"
+hash = "1d366dbc4ce3bf64507b8786f79786fbe39c48a7a6b34036e4e5971ec4d5324c"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-5/assets/minecraft/optifine/cem/horse_baby.jem"
+hash = "1d366dbc4ce3bf64507b8786f79786fbe39c48a7a6b34036e4e5971ec4d5324c"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-5/assets/minecraft/optifine/cem/horse_baby_saddle.jem"
+hash = "f73f75d1c564a0f7493aa1e5d029c640176048af5ee802b6e1ffe65a141d32d4"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-5/assets/minecraft/optifine/cem/horse_saddle.jem"
+hash = "f73f75d1c564a0f7493aa1e5d029c640176048af5ee802b6e1ffe65a141d32d4"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-5/assets/minecraft/optifine/cem/horse_saddle_animations.jpm"
+hash = "5243aa4af4bff04bb583bd2cc478ec4d334caedcff3fd1e54290dfb2aac66a08"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-5/assets/minecraft/optifine/cem/mooshroom.jem"
+hash = "ea9a92371076c439f9dad1e31eecb950423a60e78fb622ce04819f89705ed1c0"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-5/assets/minecraft/optifine/cem/mooshroom_baby.jem"
+hash = "ea9a92371076c439f9dad1e31eecb950423a60e78fb622ce04819f89705ed1c0"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-5/assets/minecraft/optifine/cem/mule.jem"
+hash = "5679f4c9d2b280074944999f010c9cb91822a65a97ae16f5e0b539398a7266ee"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-5/assets/minecraft/optifine/cem/mule_baby.jem"
+hash = "5679f4c9d2b280074944999f010c9cb91822a65a97ae16f5e0b539398a7266ee"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-5/assets/minecraft/optifine/cem/mule_baby_saddle.jem"
+hash = "5f2c44003186d0dd132c9c365b423f27c4bced9afad3c3dcb33542c96ab6f032"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-5/assets/minecraft/optifine/cem/mule_saddle.jem"
+hash = "5f2c44003186d0dd132c9c365b423f27c4bced9afad3c3dcb33542c96ab6f032"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-5/assets/minecraft/optifine/cem/mule_saddle_animations.jpm"
+hash = "196528c5b02006d89a2f601ba95aacaf0acd21bbd017e919f829181db701131f"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-5/assets/minecraft/optifine/cem/pig.jem"
+hash = "19d9c6a229b4eec940924eab20e47ec573b3c7ea606d2054b96090f2f023f1ce"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-5/assets/minecraft/optifine/cem/pig_baby.jem"
+hash = "19d9c6a229b4eec940924eab20e47ec573b3c7ea606d2054b96090f2f023f1ce"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-5/assets/minecraft/optifine/cem/pig_baby_saddle.jem"
+hash = "4847871a80bb4c7609b360a05e974c187cad053b2f4ddfadb33ecdd8e3713bdf"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-5/assets/minecraft/optifine/cem/pig_saddle.jem"
+hash = "4847871a80bb4c7609b360a05e974c187cad053b2f4ddfadb33ecdd8e3713bdf"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-5/assets/minecraft/optifine/cem/skeleton_horse.jem"
+hash = "174a3c33befafa1bebee0158a091cae496f75af5c6cfe3b9bd47f4717ba6feef"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-5/assets/minecraft/optifine/cem/skeleton_horse_baby.jem"
+hash = "174a3c33befafa1bebee0158a091cae496f75af5c6cfe3b9bd47f4717ba6feef"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-5/assets/minecraft/optifine/cem/skeleton_horse_baby_saddle.jem"
+hash = "4a976b6c5e6de831b237134938f2701caea280139eda178456ab197e122439c9"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-5/assets/minecraft/optifine/cem/skeleton_horse_saddle.jem"
+hash = "4a976b6c5e6de831b237134938f2701caea280139eda178456ab197e122439c9"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-5/assets/minecraft/optifine/cem/skeleton_horse_saddle_animations.jpm"
+hash = "8b306a3b080e11165e03766d7d04e4fa51556761dd006a0babe457f7ad86dbb7"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-5/assets/minecraft/optifine/cem/villager.properties"
+hash = "925ca39bebcc8c206eeaf7a1cb8c148179ea8ee4ba6df35a354c3bf701419ba3"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-5/assets/minecraft/optifine/cem/villager_baby.properties"
+hash = "925ca39bebcc8c206eeaf7a1cb8c148179ea8ee4ba6df35a354c3bf701419ba3"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-5/assets/minecraft/optifine/cem/zombie_horse.jem"
+hash = "32ff265ac431b0e2b55d580cdf09f3d7c835522a3ff57fed29b320e2a283efce"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-5/assets/minecraft/optifine/cem/zombie_horse_baby.jem"
+hash = "32ff265ac431b0e2b55d580cdf09f3d7c835522a3ff57fed29b320e2a283efce"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-5/assets/minecraft/optifine/cem/zombie_horse_baby_saddle.jem"
+hash = "c3d26eca352d6554ae1e8999cba30efdbcc073075fd52f051bde84ae6c98043d"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-5/assets/minecraft/optifine/cem/zombie_horse_saddle.jem"
+hash = "c3d26eca352d6554ae1e8999cba30efdbcc073075fd52f051bde84ae6c98043d"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-5/assets/minecraft/optifine/cem/zombie_horse_saddle_animations.jpm"
+hash = "5d314049a78feae90fa42030153d37b3f0254497c652e720cea0736a1730be71"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-5/assets/minecraft/textures/entity/cow/brown_mooshroom.png"
+hash = "5503de6b595e29b4dea627640304efcda5cdad743685ae164dd290c08eb43ad1"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/21-5/assets/minecraft/textures/entity/cow/red_mooshroom.png"
+hash = "b3f410f39eeb51d8fa6bcb59e1ad93be991dd8f6c22082a2855f16894432aa36"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/FAterms&conditions.txt"
+hash = "fb8501560cf1d904f9ac9c59794039ab4d849b7fe958aba6fe81967b256e4400"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/allay.jem"
+hash = "25c1ed90a37b8bf4997391357c4424586b31d47fdb37a63add86ab06875a4891"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/allay_animations.jpm"
+hash = "b0beb9eb4e7c33c232443b276079e3350e72fe3c52631acd5daa8f206f069d36"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/axolotl.jem"
+hash = "e55602e0242d5ea3a9040d4a16979d3d93721f46bd403951354772798d353577"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/axolotl_animations.jpm"
+hash = "e6b4a82161523a985bea71bb086e6e17fa9fba7f3c47596f950219b3d1fed5ed"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/bat.jem"
+hash = "87595b52cec0a9ea05772a396a247fcc2f8c1c2699fb3b782bcfa1dc33a9ceae"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/bat_animations.jpm"
+hash = "7fd1493f9846f081472eaf315518dc959dbbf8141a2d23142158f58ecbc31c75"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/bee.jem"
+hash = "b347c640a7e26e3b42537b078a75af20ed27844f06d94400424131a4df3fbe9a"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/bee.properties"
+hash = "c9e5e11b5798b2796200ac9f9fc2a2329811b9cf8c09e9097f2d8adc0e13a5ef"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/bee_animations.jpm"
+hash = "3bd8fdce60530490231f1edc41eee4ad08e68ef299308b67a857aeeeed0c450c"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/bee_baby.jem"
+hash = "b347c640a7e26e3b42537b078a75af20ed27844f06d94400424131a4df3fbe9a"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/bee_baby.properties"
+hash = "c9e5e11b5798b2796200ac9f9fc2a2329811b9cf8c09e9097f2d8adc0e13a5ef"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/blaze.jem"
+hash = "1734a0ca5d619d624ac25a61c786376b8a5aee1b2b9dc42a384528c7a7eb9c5d"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/blaze_animations.jpm"
+hash = "9052fc7239a5a9a100c8dfc5dc62c2800d35fd1c99b42a3137cfbb679cb4bd59"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/bogged.jem"
+hash = "3b61bde3d290c1270a9d5def5016e7dc3ce2f64760b713465f7cce6cd2b8d9e9"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/bogged_animations.jpm"
+hash = "10db55c2d3526a2ec6fc7326f8f2187c47155dd07f508e4bb0e40900edc78b8e"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/bogged_outer.jem"
+hash = "b28a3c3353b25b7fed7cb890b79c40d9ea26b935a41b8d799d7ac51805fef15f"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/cat.jem"
+hash = "3ec0c5d2bdd576a1673468d123581803601df3ca71217df49070070187067b3d"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/cat_animations.jpm"
+hash = "87f199171a86bf898533ee7e1ce4e1e736f638f443fc2ebb894ef63b97f05260"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/cat_collar.jem"
+hash = "0b3000623b494cf1021a208468e1b19b027058009b7863f14d8232557ba906ba"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/cave_spider.jem"
+hash = "f23b0b46f8bd84c69dca6739a51d53e0092c7f6e0e582ec654c2c350e6b7fe1a"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/cave_spider_animations.jpm"
+hash = "f6d2d9e44ec557f32a27714a5a6c9572fd965959ccfd9f83aaa65a25e1651030"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/chicken.jem"
+hash = "6a8eb974bbae454511af8c5dbc5f95d0aa60cd3d10f72ae3f08fdf3bd0d45a07"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/chicken.properties"
+hash = "85a11d034a4dfee0027c47d8d1711468b0dd56c4de5794d00955dfdc067697cc"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/chicken_animations.jpm"
+hash = "09cc337a8f3e055decbbc8289d519ef44bdb3d3dd3a2f1efec1e01e01ac2b715"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/chicken_baby.jem"
+hash = "6a8eb974bbae454511af8c5dbc5f95d0aa60cd3d10f72ae3f08fdf3bd0d45a07"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/chicken_baby.properties"
+hash = "85a11d034a4dfee0027c47d8d1711468b0dd56c4de5794d00955dfdc067697cc"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/cod.jem"
+hash = "0a7be4266dc028cdffb6c33c04d1c0aa06c0bbd6f72558fc48950eaf7230f770"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/cod_animations.jpm"
+hash = "bdb1e309f37475bcd272312826925402440f26266bf31d0a891e61f92621d9ae"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/cold_chicken.jem"
+hash = "0a569b891b119f56334cabae4cd30763d1f0bc13240351072eeab144ac081765"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/cold_chicken.properties"
+hash = "85a11d034a4dfee0027c47d8d1711468b0dd56c4de5794d00955dfdc067697cc"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/cold_chicken_baby.jem"
+hash = "0a569b891b119f56334cabae4cd30763d1f0bc13240351072eeab144ac081765"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/cold_chicken_baby.properties"
+hash = "85a11d034a4dfee0027c47d8d1711468b0dd56c4de5794d00955dfdc067697cc"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/cold_cow.jem"
+hash = "ddff1f54f5dd0ca291906b29402829c2083bf4cb71933c13886b5a5e72b68282"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/cold_cow.properties"
+hash = "2405b340d604c4df148763a38e8a854c965af4767e4002147e073dedaee92856"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/cold_cow_baby.jem"
+hash = "ddff1f54f5dd0ca291906b29402829c2083bf4cb71933c13886b5a5e72b68282"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/cold_cow_baby.properties"
+hash = "2405b340d604c4df148763a38e8a854c965af4767e4002147e073dedaee92856"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/cold_pig.jem"
+hash = "1d890bfab29c5d185a19902fd885cf0a5187350297c6e36e51b6e2be3f4e8c5c"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/cold_pig.properties"
+hash = "b44defa36ec7e46b0f506b82a400060c233e397e6a94a7d13ced8ddeb4eec745"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/cold_pig_baby.jem"
+hash = "1d890bfab29c5d185a19902fd885cf0a5187350297c6e36e51b6e2be3f4e8c5c"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/cold_pig_baby.properties"
+hash = "b44defa36ec7e46b0f506b82a400060c233e397e6a94a7d13ced8ddeb4eec745"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/cow.jem"
+hash = "7ac76d12d125275b43bd3e8b3196c330c03c944f8e22f7393d849fb4825b81dc"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/cow.properties"
+hash = "2405b340d604c4df148763a38e8a854c965af4767e4002147e073dedaee92856"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/cow_animations.jpm"
+hash = "3a35db3b553cf13059546430c1b60301fef07de1b090f7e6dcb49c9f8cd3a5e5"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/cow_baby.jem"
+hash = "7ac76d12d125275b43bd3e8b3196c330c03c944f8e22f7393d849fb4825b81dc"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/cow_baby.properties"
+hash = "2405b340d604c4df148763a38e8a854c965af4767e4002147e073dedaee92856"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/creeper.jem"
+hash = "883b76477665762759bcdb28fc8492540061540994d0ee1b2863fde857323093"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/creeper_animations.jpm"
+hash = "0f08c33e19fb73fd8d954e66187147299e21a3000536486e0920fe1178159170"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/creeper_charge.jem"
+hash = "c5a7dfa8ad32c4cdca97ed0afbec562ec5d29a683e4511e3a7327e76d24e6be8"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/creeper_charge_animations.jpm"
+hash = "f58dcf66fc28ed49971ebf978b05f74a35b7e0c939bebcca850fbca41198a398"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/dolphin.jem"
+hash = "537db167494f84ca440ccc4153970ec2a40ca997100a2b07febb1a5547c08877"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/dolphin_animations.jpm"
+hash = "9c7f951d0511b074b1d75458a2fd39d01167a1148478d0c002f8905327c2efee"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/donkey.jem"
+hash = "2853c94d09b366ba0747a5f0fb9f3bc16eb597123cf25626fba476f835b924d8"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/donkey_animations.jpm"
+hash = "95bc6e8c7862437ffc76d4e32f1a7b355420a34897740dd26f0d9d949edc76f6"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/drowned.jem"
+hash = "14a7323aa8a9083d741cc49d7b53a1bcbb7a20d62f44a6101245c93b3c264dd4"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/drowned_animations.jpm"
+hash = "34b061b05be4d43c9bf07f84d052008ff0ef84f0c569b8dbfbde6f44f3066031"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/drowned_baby.jem"
+hash = "14a7323aa8a9083d741cc49d7b53a1bcbb7a20d62f44a6101245c93b3c264dd4"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/drowned_outer.jem"
+hash = "cee1525bb4248539cec24ed8c3a3df342e08619722fcb2d82cfb93e386010dc0"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/elder_guardian.jem"
+hash = "f3bfde0dd6560c0fc98261627b5d2a7c621bb7831c359c30340f157ef88ff42c"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/elder_guardian_animations.jpm"
+hash = "5393bfbbb498e31678704f1c0715a984d335fdd397fe6e91fc9e1283af159cb4"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/enderman.jem"
+hash = "f757bd4fae7b4bd3e8e4a2c617d845feed751a45bd492c34d1b4d96ecadfcf1f"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/enderman_animations.jpm"
+hash = "a9952e7261b141f483904f093a7a8e06d32218820d01454922798510a3f3dfc2"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/endermite.jem"
+hash = "84724cf869254f5e5077b572b556bd15a723dc1568d50c7261d5e3083b319e38"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/endermite_animations.jpm"
+hash = "2a68ca2bec7a044d74994b1953704665a6f1b23bda70cc40f142df0752b6dd37"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/evoker.jem"
+hash = "c1d2d8fb59b9416c900fdca90de10077206f53e4f7443e9a814e3213d0dc9ec5"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/evoker_animations.jpm"
+hash = "e86bf6796225c843a1e63218fa3ffbdef4ba26efb77bd1f2d66cd29473412430"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/fox.jem"
+hash = "a5d4c7640b12b53154593ec1c95a493e6610532eea2e3147e969cd2efb82f3f5"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/fox_animations.jpm"
+hash = "ad06190e437f33cdcc013a93d3e792d683673d5efd4b01f58cb8ca34b4381915"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/frog.jem"
+hash = "c7da1f4f90a8721661a667aea89e0f7765f262c115e8790fc695a774775ab5fb"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/frog_animations.jpm"
+hash = "b8197251a1f2a7ca75e04f7a3d82c7613b0f0506c277bb6102980d3ee4f067f7"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/ghast.jem"
+hash = "1b063842780a4a5a350e0b511808fb02bebd3afb9b611dc4701d54a5197f30d3"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/ghast_animations.jpm"
+hash = "b2ba1b391610c0cfb67a6bc7d07fbb5e904252f520808fe4bc3af1376bf29e3b"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/giant.jem"
+hash = "b234371cbee36afa0ee32e2e2a157a5bd90ad5bff0daf4ebf32d6267f4ea117b"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/giant_animations.jpm"
+hash = "7cfadb77161dbca5c0792bab34411c605c021989a81d3557e83d02269d68b47e"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/glow_squid.jem"
+hash = "0616352f56fb43c1c9378f62499d2a23f0dd50bf38c77345a614d4c6cdd8204e"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/glow_squid_animations.jpm"
+hash = "b9e7edd36c625e9964875a3eaff6b0096d8981c87d0b9c29daba4bc3d092bd36"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/goat.jem"
+hash = "94f6789c2b8c9f6d8654a36b253c9829599f5f670d618f741fb8e9bc707bae10"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/goat.properties"
+hash = "2405b340d604c4df148763a38e8a854c965af4767e4002147e073dedaee92856"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/goat_animations.jpm"
+hash = "08b745e3040bad43be7f6f5cdcef4373d7691e83bcc9795fc8e936eedb1a5836"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/goat_baby.jem"
+hash = "94f6789c2b8c9f6d8654a36b253c9829599f5f670d618f741fb8e9bc707bae10"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/goat_baby.properties"
+hash = "2405b340d604c4df148763a38e8a854c965af4767e4002147e073dedaee92856"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/guardian.jem"
+hash = "d0f115657a2ce554cd5a28e80bd81902d0e69a629efd878341bbf92ca148e3cc"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/guardian_animations.jpm"
+hash = "e25307332df62f21c35799a8aee192670554d55432ce84a3aea691f55cd68b0d"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/happy_ghast.jem"
+hash = "daea7cc10c021443fc76831fe5195f7d1667091f367d00b4a453b00b2aea26f6"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/happy_ghast_animations.jpm"
+hash = "bc151abe7d81f901ad10bc8baf7b31d3ac63858aba12a53b1698ace8703ad338"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/happy_ghast_baby.jem"
+hash = "800d93b685a1f154c7b2453702e8852ddb50c39a09bb7e0ef252a1287ab1035c"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/happy_ghast_harness.jem"
+hash = "78eba75cdc40e1c29bc8c0c88e93b088c302d5d4226d08a02b53248d5e5305ca"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/happy_ghast_harness_animations.jpm"
+hash = "fab15f0f6f550628feb800c15cb53dca0da5729b52b48ae63d282511d1760d98"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/happy_ghast_ropes.jem"
+hash = "6f35fd74361f54171e99a96cae2cc3de6d6f2c8599b926b2fcacdc7e59378196"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/head_creeper.jem"
+hash = "1fb87776b8191ccd42a3b3b37116eb7f811343f555a7bb60a1c9622852082cf2"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/head_piglin.jem"
+hash = "af506815b0b64c0db977a5cc1fcaa767c3c3822ceafea9ba9953c5b1341a739a"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/head_zombie.jem"
+hash = "fb96c3d61a473ac1910a353da3a93650ef9042cef0fe38b0aee35f78f9b4cabf"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/hoglin.jem"
+hash = "c1d5377dd4d7ad573e8c90769fb6f17c60d3d5e3909419c306173f11e9ce8aac"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/hoglin_animations.jpm"
+hash = "d7d0a0f15c189f7eee2f2a63cb4447b0c1314dd8b6e917529a4d77a7d84bbfcc"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/horse.jem"
+hash = "8c081e27e9359ff8ca2adfc53032f674daa9b02c000875891dab6f1e2f1e14cc"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/horse_animations.jpm"
+hash = "a59dcfc2222718e9ec419090d31b4efddc39dc8060115fd5ac28887f004e68da"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/horse_armor.jem"
+hash = "cd81984d64fa07965c7c493ab5e9da19f8af298dc957b01c069de7108e7c9cc4"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/horse_armor_animations.jpm"
+hash = "458ed291dd393963f5c9e002d758910de448d32d2d34d860e3c414a36ec0c7a9"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/husk.jem"
+hash = "816d8893eee6eec5fa80c3e23a754ee5a64156eedc7e7716bddfe195f4f6b88b"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/husk_animations.jpm"
+hash = "e76e0d0200f5943475652e97c092145180d588965b8205d710d0f7648571ccbb"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/husk_baby.jem"
+hash = "816d8893eee6eec5fa80c3e23a754ee5a64156eedc7e7716bddfe195f4f6b88b"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/illusioner.jem"
+hash = "e9d678e15d37c2e06c82f19c32515056482bfcdfc1d9a0eeb9dc8a13ec15dd60"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/illusioner_animations.jpm"
+hash = "294369855cb3c25aacab1b7fe4f94538fe3671e7f25f89a62a5d0873f777a452"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/iron_golem.jem"
+hash = "7318699741a5f473eee726a4e823ed050d12b1574e3a23940cf8b7c7b70ebf42"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/iron_golem_animations.jpm"
+hash = "11758783223d8d6b129cbc36e3f1c9d26a7a53e14c83c0381f8fc78e38146bb4"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/llama.jem"
+hash = "2e5edd2a41efe2323da7f9fd29ab791dea71fbc79752f1760649b189166b769d"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/llama_animations.jpm"
+hash = "1c11f62a276a180bad34cc4042b13ad4aa1cc23a11ea1450892be881c16a18fb"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/llama_decor.jem"
+hash = "3312d5f425575478617a7d983b6d5e610f7300e55eff5d11136a771005b352d9"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/magma_cube.jem"
+hash = "e233d0252ffa86b63107e1144de3c5c71c8549ddabc15ea31b12223873defe6d"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/magma_cube_animations.jpm"
+hash = "ca5b9efdb7002b69fb0022292d2d3c51573f7fc5245cec78adaedd9327d05321"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/mooshroom.jem"
+hash = "f834eafccf4b129ca322224f9fc084a34eefa9e4675bacfb43f3e6f138800637"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/mooshroom.properties"
+hash = "1cc6e444fcb7e7e38abc7333b8eeaa726e6c9cd4bd6e6f2d7a3855f63af988de"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/mooshroom_animations.jpm"
+hash = "1ff2478c1e20e6b78250d1f8ce0dbd37189485d1a86d3544e6c5a3cab203ad0d"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/mooshroom_baby.jem"
+hash = "c8e3de208b0a331f236bfa63bf75ecf5b7e77435a6375f10f55bdd0a6a29254e"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/mooshroom_baby.properties"
+hash = "1cc6e444fcb7e7e38abc7333b8eeaa726e6c9cd4bd6e6f2d7a3855f63af988de"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/mule.jem"
+hash = "94d781562d1c74b074ff9d1545cfda42a2c0d668be580c98036c173c088b00aa"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/mule_animations.jpm"
+hash = "95bc6e8c7862437ffc76d4e32f1a7b355420a34897740dd26f0d9d949edc76f6"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/ocelot.jem"
+hash = "223a146f01f43532df74e68ae162fdcf19081120cf8f1c0df922c854cca3b2c5"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/ocelot_animations.jpm"
+hash = "95b30ac4087d555f3848f531d96dea9390b5efcf477effc589c3afa3732f76c3"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/parrot.jem"
+hash = "6b62dd25dd9490853a12773c4d9522a182af3a6bebf6e4d24a9148307bbde26b"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/parrot_animations.jpm"
+hash = "e5f9a36f0ca86cf3262349f9799e8d6c20b5845af25237895ef232db8500da6e"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/phantom.jem"
+hash = "d9c753fe47d1980e2cb406fcd9797927b1d87057e1585f67c3cbdfd4cc27fa48"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/phantom_animations.jpm"
+hash = "dce438e734dd8adefb879c2c363b96450cbee6bddc9d82c4ddf0861a03f4ab7b"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/pig.jem"
+hash = "c765c8bb7adc07c38c6e439f7a7079455c54c8fc84b1290551feb14cb0a99387"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/pig.properties"
+hash = "b44defa36ec7e46b0f506b82a400060c233e397e6a94a7d13ced8ddeb4eec745"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/pig_animations.jpm"
+hash = "ce1fd4db5942c88b8e7b3c36d4d46afeae8389fb1521726d1aaed18916a82d6a"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/pig_baby.jem"
+hash = "c765c8bb7adc07c38c6e439f7a7079455c54c8fc84b1290551feb14cb0a99387"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/pig_baby.properties"
+hash = "b44defa36ec7e46b0f506b82a400060c233e397e6a94a7d13ced8ddeb4eec745"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/pig_baby_saddle.jem"
+hash = "a1a414a87116d2b10c53b8fcb27d96d66a481517098f9c92c39452987492e75d"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/pig_baby_saddle.properties"
+hash = "b44defa36ec7e46b0f506b82a400060c233e397e6a94a7d13ced8ddeb4eec745"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/pig_saddle.jem"
+hash = "a1a414a87116d2b10c53b8fcb27d96d66a481517098f9c92c39452987492e75d"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/pig_saddle.properties"
+hash = "b44defa36ec7e46b0f506b82a400060c233e397e6a94a7d13ced8ddeb4eec745"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/piglin.jem"
+hash = "1898817be41b87929aee190cd182d987595f4e0808c0f2b64ebcd19d8227a02d"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/piglin_animations.jpm"
+hash = "7e82d9cd75a8d77ab7430b8cae27d1c8260d018a320cb98d4a1111745e6b76a5"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/piglin_baby.jem"
+hash = "1898817be41b87929aee190cd182d987595f4e0808c0f2b64ebcd19d8227a02d"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/piglin_brute.jem"
+hash = "8c1a9022ae68921673ad8c3703b491f82395b88f5c4e556df10baea60f527775"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/piglin_brute_animations.jpm"
+hash = "64976aa24c84fc3535332f7f9382949f0397f2d36efd2cb608f9204bfe784b2e"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/pillager.jem"
+hash = "900583e0b939a360c06e7f237ffd8a63f15bf5c9d45f4d3c0327547388c2f90b"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/pillager_animations.jpm"
+hash = "898df2a343da245cf97006bc83372293597f4d6640fd48d4f78035c386b8fab9"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/puffer_fish_big.jem"
+hash = "3f0f5a018a102bde660c7f937307a8ffb92f1ce8f44daed38274eb048c4be788"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/puffer_fish_big_animations.jpm"
+hash = "c1ac4d7b9bfc278691a2b4c2285ab25dd196d2f85c26f59c060842ab1e295cac"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/puffer_fish_medium.jem"
+hash = "39d8fc1af083cce63d8e0dcb981d7d1d105a8a5fc884f254161601998b6b369d"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/puffer_fish_medium_animations.jpm"
+hash = "9f90e9fe5cd8b057b8b6b010288c4a0885f3f1f7cb284a8b8b815da3f60b8dab"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/puffer_fish_small.jem"
+hash = "8fe170464597c2bf6a62c09ddc8bda429de57c48b5446f22d7537724a8e3f52b"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/puffer_fish_small_animations.jpm"
+hash = "6a8ce874f851594a91688a06d383148c9fdd610cee22d8bddd04873f3da1c37c"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/ravager.jem"
+hash = "80669ae95db1ea743694dd2be47fda355ed890d26d89f01d38bd56a6b03e7439"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/ravager_animations.jpm"
+hash = "1a11b06b83484ed42f52f182e744e4b1c8db32c0268a42855140bc60e8d29f52"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/salmon.jem"
+hash = "eb3d035cdd930ed7c29931dcd43b741f517ad54f11d52c491e1e15001cc1a29a"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/salmon_animations.jpm"
+hash = "d82b0db0e574d321c2dc5d977fe95425aa3450c83f36e30cd242795cf08e96ba"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/sheep.jem"
+hash = "5001f8e989db4aee275ebed20df49f9ce19f09a59a5bf577aafeb8569b4c7b3b"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/sheep_animations.jpm"
+hash = "621857a9f2050c70a0b8a7a553c8fdd799ef83a587099e5b2b31a0df7612e874"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/sheep_wool.jem"
+hash = "ef35d2db87b0b50fecdbda568ae7f969d87e6e3e65eef60609ada8b7bda76dc8"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/sheep_wool_undercoat.jem"
+hash = "130479cebe47e08d9d2421072f812817db4efeea4cead92a11db6ffea405fc11"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/sheep_wool_undercoat_animations.jpm"
+hash = "5b78b00ff8e686666c42adb56571bb13cb34c888221d0ae71ac0c36ca3eca2ac"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/shulker.jem"
+hash = "ed8dd88b0de704d225fe75f8eab6bcfa251c915da4a6f6e9545ec667fb98c6f5"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/shulker_animations.jpm"
+hash = "d13f0a8cb20d116be814697b2b442eb05b6df4e80c9f47ace079451921969f0f"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/silverfish.jem"
+hash = "79bcbfba43e735d18f2b249b71faafeebaa85b436f69acad2ae00bc62de0affa"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/silverfish_animations.jpm"
+hash = "b649ff2859db4c9f345ecc97800ba2a76e634ad917de90c20ccfff930942c3c1"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/skeleton.jem"
+hash = "29d827e13ad0090af841e53fa4bc3ebf46621ed2f79c4a5d5ea0098515f81c1e"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/skeleton_animations.jpm"
+hash = "2c17304ba9d29f20b6dcb08a9103a02b8aee701fe32d5d567b09c9d01bc98cbf"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/skeleton_horse.jem"
+hash = "6948c4cdf0826e8ba041793cc346c1368eb57ad690827e2bb713d1444e084f46"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/skeleton_horse_animations.jpm"
+hash = "2fbd1905d773ce3d7b4c6c3b7f1689c7be8f096a8944deb73db0879e64650fde"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/slime.jem"
+hash = "b68ea468901b2284ce28734c129a6d43143dc4efd6533ca21f8e2b3cda576eca"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/slime_animations.jpm"
+hash = "2112e93f01ffdedda46dc3664aed932ebbdb13195d6316c11485d7f5608b5c2d"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/slime_outer.jem"
+hash = "2b45341ba346d79d24c47353a7c69c66747658c2425786cfb425f13a241f5ba0"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/slime_outer_animations.jpm"
+hash = "b8a7b9d7f7c532fd734531f59712c61d2871523d1a1f2f9ef9fa309d9425d197"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/sniffer.jem"
+hash = "5bfabecb08e37b79f155078e17a5c4ef0d297cf444afd1a0eca6188d960e6a15"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/sniffer_animations.jpm"
+hash = "7865e044fd5752e745aa3d84838065032eb3fbac491bca5c95434ecb32a3c579"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/snow_golem.jem"
+hash = "234064f8f7bd1e5e290b642d48523fb755a4732f965ca48cdb0c8cc40b0eca20"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/snow_golem.properties"
+hash = "b9677be72aaaef83fe9438a7dfb62fcce961e2957081043f5dc0a83c00c39cac"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/snow_golem_animations.jpm"
+hash = "b2a33d4d0abb6f576fbf0dffe7309767d3360b0bdcbefd81e5964ca5a91e469f"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/spider.jem"
+hash = "f40abe9ebfb0030c1b1f5aae177983d0e56651a720cf29de348f62e7f4ab133c"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/spider_animations.jpm"
+hash = "1dff0b8384d21b090e0451f04b54bde6c2774bb876a84ba1fe62bbfdcee77731"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/squid.jem"
+hash = "94b7411819ac3c4edb67261b7afeba816e84e005ded47af1d50cca5fb0b61d21"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/squid_animations.jpm"
+hash = "774e0c69bc17d89b596edb21c55af2552a6785f2e0aa9020949ab3d181445443"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/stray.jem"
+hash = "6e21ac469dffa0ed09cc686092d4d8ea587549e3b8be8085e95d319994c3f7ae"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/stray_animations.jpm"
+hash = "07c38e2a98cad390384f3554dfb492d8814e88eec1f4796d35f37b591492eddd"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/stray_outer.jem"
+hash = "16aff713f46f8f5014b483aa998de5565c838ebeb4ad70773fbd974248cfc612"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/strider.jem"
+hash = "8f6f2452c8f870d5bffbc77549b207d84fd39f86fb05b64f728ffefa57c89337"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/strider_animations.jpm"
+hash = "18c73472a0e424ff66fc8c58c0740b5ccd5499e6a1f9d275f3f7fcae768d2caf"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/strider_saddle.jem"
+hash = "fa8bb227fc75d1cbc953f7d3bbf1f35c1acb522bb6fcb9c946f69befed0049aa"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/tadpole.jem"
+hash = "5622441fb744b9b19167bed3c73c2c3c88618eae329f220d20a4316b4c85f314"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/tadpole_animations.jpm"
+hash = "02adbaa0fb9c607f741202c0ac5e42fdbac22ad1bc276b930e60bbafc7f50365"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/trader_llama.jem"
+hash = "2e5edd2a41efe2323da7f9fd29ab791dea71fbc79752f1760649b189166b769d"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/trader_llama_decor.jem"
+hash = "3312d5f425575478617a7d983b6d5e610f7300e55eff5d11136a771005b352d9"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/tropical_fish_a.jem"
+hash = "78d02d14985d9fb5f2ac9c8b4a2708ef7463efebbdec363a17829931080fba93"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/tropical_fish_a_animations.jpm"
+hash = "e087c9f1de83efd02cb5ee840b6cfa708223d36c0cb0c4c9514abd2501411ce4"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/tropical_fish_b.jem"
+hash = "3085b66460daa25e38453fa0a7420d6344b596df0f7807b05fab770cc86bb946"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/tropical_fish_b_animations.jpm"
+hash = "45705faaffb782d92e3231d03a119e7f6b14ea852203414b0f1231821133c354"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/tropical_fish_pattern_a.jem"
+hash = "1f62949a38db9cde3dace8dcb9a5fa47865ecd46b3bbd07abf96b6d8961ef843"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/tropical_fish_pattern_a_animations.jpm"
+hash = "e25996f77c1bab72449f9cfc5fb67b2dea1fc680d7f1addb1049b5b5fb5f0a7a"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/tropical_fish_pattern_b.jem"
+hash = "c9eb1f56dbef76ecfcde8ea60abb300d9f170ee4408cdf30c458942f8a3822c2"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/tropical_fish_pattern_b_animations.jpm"
+hash = "bf111f71c6c4d616e84163bdabb56d0a4a94e457632e4ca2be9cd40d2407ca51"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/turtle.jem"
+hash = "1c7bd0d176ffc81c39767a584637ef0b6513d2e9a46b89337df2325b7bfbdfa0"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/turtle_animations.jpm"
+hash = "d867bda0134ffdbee13f0850add1f53eeb20ef10b58918d91f405ebd0f6a01f2"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/vex.jem"
+hash = "8c1d90710949e5f1de1134867e1b563f2d84bf66133cab978edaf686151fcba7"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/vex_animations.jpm"
+hash = "13ba71cc51d3dc75d14fbe845e1b81785ef0849c4ac8f8465dfd06778a13f77e"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/villager.jem"
+hash = "7bb4a7abf1737c9aa0df385668de734e34e9831967d1539f51fafaa803205035"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/villager.properties"
+hash = "54e095b78fae60919805b831fa739dda5e4fd399844e011faf91c4156a95dc65"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/villager2.jem"
+hash = "907122073a0e96c24b3614565f5c7bc4eb2f68beffbefea9e57f63e0a2548095"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/villager2_animations.jpm"
+hash = "5b01e6df1ec2032d8b37b527323e8732f6a4bff3e9ef94363d2134ac1d7d1f41"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/villager_animations.jpm"
+hash = "082b3c01a9146b6118246a63e7f8a7b01c749f06675d36ec2ed5263994061653"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/villager_baby.jem"
+hash = "7bb4a7abf1737c9aa0df385668de734e34e9831967d1539f51fafaa803205035"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/villager_baby.properties"
+hash = "54e095b78fae60919805b831fa739dda5e4fd399844e011faf91c4156a95dc65"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/villager_baby2.jem"
+hash = "907122073a0e96c24b3614565f5c7bc4eb2f68beffbefea9e57f63e0a2548095"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/vindicator.jem"
+hash = "2748c749a8ac457c8cb5d1411e7cc0450c195925fe9a0f2c2ea39fe12a7ff510"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/vindicator_animations.jpm"
+hash = "09e58425d2da73ba9fa8a37a9e9f85aea8650effee8565da8dc04cf2eef7e006"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/wandering_trader.jem"
+hash = "b3899eb1165cf1e766d5d50c03ac9f6e91d7c0ae513610391d19a03e8f906fe7"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/wandering_trader_animations.jpm"
+hash = "854cd47c394a59d4861f47da559042db14b4be855258947bac5a582c317072a8"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/warm_chicken.jem"
+hash = "6a8eb974bbae454511af8c5dbc5f95d0aa60cd3d10f72ae3f08fdf3bd0d45a07"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/warm_chicken.properties"
+hash = "85a11d034a4dfee0027c47d8d1711468b0dd56c4de5794d00955dfdc067697cc"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/warm_chicken_baby.jem"
+hash = "6a8eb974bbae454511af8c5dbc5f95d0aa60cd3d10f72ae3f08fdf3bd0d45a07"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/warm_chicken_baby.properties"
+hash = "85a11d034a4dfee0027c47d8d1711468b0dd56c4de5794d00955dfdc067697cc"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/warm_cow.jem"
+hash = "5ebb358d45daadf430338390655b03291fd182cce45e8baf63454a633514f5b4"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/warm_cow.properties"
+hash = "2405b340d604c4df148763a38e8a854c965af4767e4002147e073dedaee92856"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/warm_cow_baby.jem"
+hash = "5ebb358d45daadf430338390655b03291fd182cce45e8baf63454a633514f5b4"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/warm_cow_baby.properties"
+hash = "2405b340d604c4df148763a38e8a854c965af4767e4002147e073dedaee92856"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/warm_pig.jem"
+hash = "19d9c6a229b4eec940924eab20e47ec573b3c7ea606d2054b96090f2f023f1ce"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/warm_pig.properties"
+hash = "b44defa36ec7e46b0f506b82a400060c233e397e6a94a7d13ced8ddeb4eec745"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/warm_pig_baby.jem"
+hash = "19d9c6a229b4eec940924eab20e47ec573b3c7ea606d2054b96090f2f023f1ce"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/warm_pig_baby.properties"
+hash = "b44defa36ec7e46b0f506b82a400060c233e397e6a94a7d13ced8ddeb4eec745"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/witch.jem"
+hash = "410261531d64af2292f3136d4a90e2d12f44c63c8b0a5a422cf571e337da9e38"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/witch_animations.jpm"
+hash = "1659fffe357c705d2ad1615f673d419e0b948926ebe5c6b4412f6ba6526c95cd"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/wither_skeleton.jem"
+hash = "ec4d44ebeaa51a54f03187109772b649abfa70deb27f767af8ba7be769a309b4"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/wither_skeleton_animations.jpm"
+hash = "48a6c47354768431c22238cb67c2cb0365c889907efdbaee5933af3e644bf28f"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/wolf.jem"
+hash = "dca2e4f6de55f6f1a122ccad418882b7b6e68c84191e0b937e0ccb6a63c275e2"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/wolf_animations.jpm"
+hash = "04aa5dc6dd267f25fba0cb335a524f482a3a8c93014959f2afbec1a88729ad33"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/wolf_armor.jem"
+hash = "8c1b599fd734e213be795bb5337b3562f2bb12ddb99b4226182a5148f3810d03"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/wolf_collar.jem"
+hash = "0048b738a8524608bcbb5ecf8db6cd59b20bebd721b98a7884929b53e998b97d"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/zoglin.jem"
+hash = "c1d5377dd4d7ad573e8c90769fb6f17c60d3d5e3909419c306173f11e9ce8aac"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/zombie.jem"
+hash = "2540c7829f8f1aec736b4d573dbd4443fb43fb28c586231db17da1b1120709f6"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/zombie_animations.jpm"
+hash = "62f871975988d72693bcc2ac8c5bbf747fb3c43b6baacf94cf2c5ea57136f2b3"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/zombie_baby.jem"
+hash = "2540c7829f8f1aec736b4d573dbd4443fb43fb28c586231db17da1b1120709f6"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/zombie_horse.jem"
+hash = "8ab0991041f778b3d5d2e6574da12b5dcb67211e9b2aabf61e0b75c397c245fd"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/zombie_horse_animations.jpm"
+hash = "c56498c8a106246651bf6c54ca6b1bc9fa08b7034cfb74b451c3815b5f8011a9"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/zombie_villager.jem"
+hash = "3057f21d633dc26d4e5fe3581b055456fb37d0cb5b7ba51736390855f053bf5f"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/zombie_villager_animations.jpm"
+hash = "5891b8f416f70697dee2fb2ab6a58e28cac857f20912904cc44fb010ec74b5a4"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/zombie_villager_baby.jem"
+hash = "3057f21d633dc26d4e5fe3581b055456fb37d0cb5b7ba51736390855f053bf5f"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/zombified_piglin.jem"
+hash = "88b009630096c69f62cfd7445b6ed2bdaabd25aade4749ef6542b6245b8fde16"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/zombified_piglin_animations.jpm"
+hash = "6b8278cffeec531cc53bfbed4692e9996d18024407b7f4ce24712be59c499cf6"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/optifine/cem/zombified_piglin_baby.jem"
+hash = "88b009630096c69f62cfd7445b6ed2bdaabd25aade4749ef6542b6245b8fde16"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/particles/mycelium.json"
+hash = "bfb91c57e394ca88efbfa7539921d7f8216e56718a05b013b99f1a885500561e"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/allay/allay.png"
+hash = "27e15cb3701a4d7aa958130c88db6645243fb51ff14fb13eddae9bea747b5b94"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/axolotl/axolotl_blue.png"
+hash = "5d8f1345e3430f3706414941aa2f29f3f49ff310eeba1b1317d5ab73e65b2b83"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/axolotl/axolotl_cyan.png"
+hash = "33adf9dc7b7afaa87b71ccd62887f9e642331fff699a2033fcf20be5bd54d99e"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/axolotl/axolotl_gold.png"
+hash = "de9b53c2d931d052c56271aca3124aecf7ceb927a382218e6185576d7c34cd8b"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/axolotl/axolotl_lucy.png"
+hash = "1dce605cc6933d420b81b71ec65a02c62187ee85db420f5cdabee887982aad9b"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/axolotl/axolotl_wild.png"
+hash = "b6ef069b7fd1c58d4b4c05a208dc9817a009cea017a13f802f183819374f074b"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/bat.png"
+hash = "cf00eadbea4e77636e906826ad83626c89292e23d8c0ff12a1600393fe11fded"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/bee/bee.png"
+hash = "29adc412c524a1386646d6cb603b45cfd713ee14a3c0b4be577ae2b0ca1a03d4"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/bee/bee_angry.png"
+hash = "e26610a974da84287fd2bb15448b8be6d87f021ddbeebc39546eb984542b26f9"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/bee/bee_angry_nectar.png"
+hash = "5f8ef512d6082ae449c512ac2b85558c1fab0555b5e694cff709c925e9a61282"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/bee/bee_nectar.png"
+hash = "a3327c53883a044df06e0171ebe75168b28550484bc9230b6b5d570f1a1bafb4"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/blaze.png"
+hash = "b5b598f89e109aa08244909ef5974e7da251b70bd119c0a266c311215b650ef3"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/cat/all_black.png"
+hash = "0aa3ab5cc15eb134ef0a811b33bea7d90b0cce7cfbb02d850466a8069b04b32f"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/cat/black.png"
+hash = "d7b358433cc67ff260c6283498fb9f0b7d1d07ee97f279a34fac41f8e10eba7d"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/cat/british_shorthair.png"
+hash = "80f5587384b0307921dfbfecbca3f49555c8afa39a2d9b83a4d074f230856833"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/cat/calico.png"
+hash = "1afbdd228ed0763a1ab7ff9657e1d81efd52382f3ba989b382c987af8247c447"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/cat/jellie.png"
+hash = "ae6bc4551c8f9ae647a3e4da52641485e1402c5f53f5b83b6bb50beb587b9d68"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/cat/ocelot.png"
+hash = "b425576b9bd74b2bc1f911a1ef76a77135544d2fffd428c0e0d0ea054d8e11ec"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/cat/persian.png"
+hash = "91a10f719c5092676f79ba8d31e2870617cedb6827d9e1e73698684ca29ada1d"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/cat/ragdoll.png"
+hash = "88e086afc2eb15a1a005de836e972fc83c0652bb03f70d62189e126266c6455f"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/cat/red.png"
+hash = "29682686e9070e2b5e62e353821d572438073eac399b8bdfdf6e778ba2a61a3d"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/cat/siamese.png"
+hash = "01fd284e32148fc8a61fd48830eb1b4a4ef5c9f675e477d7e42fbed21b3dc66c"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/cat/tabby.png"
+hash = "2d563e0302e04802263b0c2c124fd1d72e3717c04dd7db25f675dbffc88c5a98"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/cat/white.png"
+hash = "30b1c07c37086a6f2387f9f7d9c75a58e27f4fe5f1cdc5770223bdbe8d124f20"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/chicken.png"
+hash = "a9623491e2a0bd7d59e6bd5a6ff3e4782e48898553e3193d8202d1e03c347d44"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/chicken/cold_chicken.png"
+hash = "8373cc58f0d6cce080ede04653ac08c1cfbd6617900b42ed2eb221a1556a0315"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/chicken/temperate_chicken.png"
+hash = "a9623491e2a0bd7d59e6bd5a6ff3e4782e48898553e3193d8202d1e03c347d44"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/chicken/warm_chicken.png"
+hash = "b22653d19d820514e12a66306991efe22b1e163f7044f158f5ea0265c7a86109"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/cow/brown_mooshroom.png"
+hash = "507b245a68813b966c3f6b370e5904813c78309cfa9d5ba6cff7e126cd4a3952"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/cow/brown_mushroom.png"
+hash = "c78d862f8d114e8e29eaf6ea5675cb108e310291a3bcb6694c23dc3e5185b3bc"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/cow/cold_cow.png"
+hash = "d323dbb8edb6cd4eb1b8fcbd6feb40b18914459b1010d48d9e6bbec006ac7b47"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/cow/cow.png"
+hash = "313a48649d46704413d5675c8b6360888e675c1eb83b60d94b824b6e8e11b923"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/cow/red_mooshroom.png"
+hash = "6ac97068bce3d75de68853efa1b145a8a7644dee35c2d8ecb719ce6d378876da"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/cow/red_mushroom.png"
+hash = "c78d862f8d114e8e29eaf6ea5675cb108e310291a3bcb6694c23dc3e5185b3bc"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/cow/temperate_cow.png"
+hash = "bc35fc40a7de350133a0a98dc6d5ce06c2e90bcd68613c2bd62a5335f83256ca"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/cow/warm_cow.png"
+hash = "cb89bd05366bc5684c81cb6cb81113f5b8b5f8cd72dbd54da8f623de892f9566"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/creeper/creeper.png"
+hash = "49c72f31b38ae86b5432d4ffa7b9eba7c1b7a440371a606d3ac3781a60d2938e"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/dolphin.png"
+hash = "f6efa0d770ada80d4b39141aee9d9047a4483729e5b5c1096b82c7c60aa9cb17"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/enderman/enderman.png"
+hash = "9f8f735e120677915f1bb493d1083f37502c70c7a57b5e8af996e24349af8d50"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/enderman/enderman_eyes.png"
+hash = "c40d1d6655294c6a1b40192febcd5fb53b6abc85a53a2c67663168b81a3f950e"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/endermite.png"
+hash = "c57043b47d710e451865ef565880a012dfa3d40de4ddba6c4c6539d37ce1643f"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/equipment/donkey_saddle/saddle.png"
+hash = "dac3f1f896f50c157e43cd4ff11a9d95639c5d6aa8782a29734ab4acd9815ea8"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/equipment/horse_body/copper.png"
+hash = "ff6784ff5461d2e9faaad32fedaa5c85ae2bf268f20b067b7c2e331cb2d3b7b1"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/equipment/horse_body/diamond.png"
+hash = "2fe9c7be89e57a2365023105389937c3566ca79c000fd4e8862f263410417cfe"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/equipment/horse_body/gold.png"
+hash = "b7e640deeb7c71047ec38a1ff18ffe289ddf837ff1657cda94cc1853df120e4b"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/equipment/horse_body/iron.png"
+hash = "150049d1799a477cfeaf8e3c1b9f99e57d443a2336192f58e1416dd6235b9329"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/equipment/horse_body/leather.png"
+hash = "7c0b547a63976746d59a75b244605fac1ef7779d3ac50bd9f59adbf1afad5314"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/equipment/horse_body/netherite.png"
+hash = "735e1a61fc436f210e4b931ab674006b078fdc39500f222bc1daf4570a185d6d"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/equipment/horse_saddle/saddle.png"
+hash = "dac3f1f896f50c157e43cd4ff11a9d95639c5d6aa8782a29734ab4acd9815ea8"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/equipment/mule_saddle/saddle.png"
+hash = "dac3f1f896f50c157e43cd4ff11a9d95639c5d6aa8782a29734ab4acd9815ea8"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/equipment/pig_saddle/saddle.png"
+hash = "4df24be0c84321ffb63bf7bde6fb5d3e21165c4e16e83b86676905eb728cf3d0"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/equipment/skeleton_horse_saddle/saddle.png"
+hash = "56162e48e2d19d239cb65e224add99a06cb9bb6e9713263c6ec666c26c406963"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/equipment/strider_saddle/saddle.png"
+hash = "820d11221fbb4d80b475a1f6ed5e7026a704c5b2df8e051a89245af8993fcf64"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/equipment/zombie_horse_saddle/saddle.png"
+hash = "2870ef88313ba0e5286adb193209ad73b47b818c71412a78ff5e0cc36e1f437e"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/fox/fox.png"
+hash = "c1edc492cb061fb2336a6a3f21852dc74504eeed244a0bccf2d0ae9e148ac603"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/fox/fox_sleep.png"
+hash = "ac17280ae24e82b67eafd8a52b8cc138cd1a908b9e3ebbf7c8654c9afd02811c"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/fox/snow_fox.png"
+hash = "bdd3fb8cbd4a22a2b1f6c4ca8fca9ad484f976157237a6393153cbab34313d08"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/fox/snow_fox_sleep.png"
+hash = "4822cefac96bafdac737eeb95b1c87f7bda83a6a8142bff9ec04a5725884e9e6"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/frog/cold_frog.png"
+hash = "c92ddf823507e95ab6e31a2b92b2bdd6c35f5f17a49678eac1fc6c321701610a"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/frog/temperate_frog.png"
+hash = "01f222c33130f3a79b184c208d98628b74905ca70b377e79b68e5bfd1927eb96"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/frog/warm_frog.png"
+hash = "ea6e445abc440c6a6c4bd7bcb04fe10c505f311fc70246738b1c287101817e0f"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/ghast/happy_ghast.png"
+hash = "11d4c7e9811842a374277da3c77649afd416b9a287628cb7c8418a1a887bfde9"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/ghast/happy_ghast_baby.png"
+hash = "a78c1066e146ff8e78e6986fde9089eafcf322f7016f2ffe1e882ac6b8baf0e2"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/goat/goat.png"
+hash = "5a4bfd94c5e57d35e161a70d15e70d07443d8d6491e4b1b07337b924ccbf2db5"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/guardian.png"
+hash = "0528eeab8f5a942e19e8b268276ada44d0277c8a60747b101a14c286b658bdfa"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/guardian_elder.png"
+hash = "bf6416967b19cde585db13de7aa3e2782c4c97f8b224f3afea61c599ac65fe9d"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/hoglin/hoglin.png"
+hash = "9f6f3cd0a787d4beac1bb3c821657f750f54f39c42ffe00dab45915a590e319a"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/hoglin/zoglin.png"
+hash = "92d0e413ad22126821cb082f1e6dc419f67dc0b1fdd10320c1875fb0a6ed369a"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/horse/donkey.png"
+hash = "ca6cb2487fb20834c79b840f71db85b751ee6a6fc0bba1bca6d6883ce119fe78"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/horse/horse_black.png"
+hash = "e24cd5fa08f3cbf05aa2cce46450c76c08cc6a77a0676ca0d02df63b12046b4a"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/horse/horse_brown.png"
+hash = "34dee554b85e7778162137f46a8a85026ed0265a5731abc1ccbb4d250db9647a"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/horse/horse_chestnut.png"
+hash = "d7efba489a90d38be642f643d26dd303f8ad885741d535ed06c09b1760a89da6"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/horse/horse_creamy.png"
+hash = "3714b5274fd46963d098aa2005d3642cda84393fc4565aa1df77539b4d0aaa39"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/horse/horse_darkbrown.png"
+hash = "d57205b98ac4f5676fbd3fb1fc26e0bfb769e0498caaa2d3ade0d6ce3dab29d7"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/horse/horse_gray.png"
+hash = "8efb0c4f31d98e47c30a11b9fb5fecf3cd554775c673d189bb7918a37b80fd3a"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/horse/horse_skeleton.png"
+hash = "308fbecc8ab8779e0e83aeb827035f108cc5e931bc96d0a19bfc6d5c4d7ae96d"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/horse/horse_white.png"
+hash = "c8e201a65110419e8ed53751dc07dd80e275a5e4248f51898c00bf052b188205"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/horse/horse_zombie.png"
+hash = "ad7d987e86a0b3cadd1131ecf7478157fc80732e11f849769647353adab7b901"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/horse/mule.png"
+hash = "20954d28dd0ae93c7f87a08eddae628afebabd4475474b97b8d9bed1b9da273a"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/illager/evoker.png"
+hash = "6afb2c15e6b27e203bdb791668faebc807fe89bccc3b23a1cf4b5f94ab090796"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/illager/illusioner.png"
+hash = "16a72397382d1b0be51a888f0dd34cebf0e9131f90fc1e30e1621f88de813c85"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/illager/pillager.png"
+hash = "a8e3da002def18d4d1f0d60cd67ef3de4af55bf857630218dc7053c8b837cd71"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/illager/ravager.png"
+hash = "da6c6a304e449ba509d5a25c2ec1d7a1c969e359027577cb942e4b0d0804ae58"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/illager/vex.png"
+hash = "530c023a39f021fbb7424e99f49f4ffad9e8ba27cfe94670cceb65e4811eaad1"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/illager/vex_charging.png"
+hash = "6972b461a2d84a643b1b4f134240368f001089a808ed7f90359a1e2bdfa70613"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/illager/vindicator.png"
+hash = "e12d36b1c3189ac900503a2f068b4c90fb80aabff7988818996049725b258a0f"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/iron_golem/iron_golem.png"
+hash = "44b60b8966882c91d79f6580c7222e53b6eff50189c3f915228eff109012706f"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/llama/brown.png"
+hash = "4d7bc676d9ef2b53dd3d5e9beceb8a485a2e6d44f2d93ffb567c2c0149071fd1"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/llama/creamy.png"
+hash = "ec3040e40aaf29607b3e06e26af4c71de78e1e0219626f7a8bc6b9fb5a3b976c"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/llama/gray.png"
+hash = "758e3c943c7023e11c7e80a2fc7a4a9f63c1b2651547fe6e39646d4f9e50e40d"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/llama/white.png"
+hash = "f84ccd775db86a6f3bdaec55a580bc156f62d7b227e0a24c8883de641c178dc6"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/parrot/parrot_blue.png"
+hash = "7cb8c72282690a96f1d235f9686850e8e52d90b3b0fd1a24bc5a5debd789e460"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/parrot/parrot_green.png"
+hash = "e630b4acb5902659c8c4d0c256484d5b7a9de097b6b63363f5960bd5e1a8026a"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/parrot/parrot_grey.png"
+hash = "1578b4e211ceff18f5e73abbe55244e30a272e1eb538b17be9afefcdee661437"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/parrot/parrot_red_blue.png"
+hash = "9d56f63adfc870cb4ac22dbbae58b6a006d80ba118c7cfa62e7ed83e6a5200a6"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/parrot/parrot_yellow_blue.png"
+hash = "06995281acb8170f08deb4f6a8665592bf05169e300c0f2ec3dd21777db376e7"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/pig/cold_pig.png"
+hash = "e01a69725d5bce089a6db5308300e09e516a81c2a48922a234659f89b749ad05"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/pig/pig.png"
+hash = "c7b130492f0602f98181e80d414b879ec90c90ab25f411a82ce5c61da32441f2"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/pig/pig_saddle.png"
+hash = "f931db64862def33ab28fb10f472630826e2c9dd6757da50d225938fd84da60d"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/pig/temperate_pig.png"
+hash = "8d0039579a93acfc2c1db860cb19efba29d531d4bdbe50fc407ee909986d0285"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/pig/warm_pig.png"
+hash = "972b929f9d541ed9d320774c82e0f6280d8380ecf393615d2ad1b9a5b9242f57"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/piglin/piglin.png"
+hash = "0c6d2539b1ec3989a6dc3563a41c4c4f9d5842bb8e3f9bfbe54589d77649ed69"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/piglin/piglin_brute.png"
+hash = "237948ce98069de34cabcac0c66cf165dce182163ef50c3dc23732e96cafc7d4"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/piglin/zombified_piglin.png"
+hash = "c215133b2f17e1c07dc4a3870911e7073ac256d5ed5a8ef93619cfbb4ccc18d1"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/sheep/sheep.png"
+hash = "de5e9b8c62a8eff03c5ba01fa3853b8780bdc581ff58bda58c8caaffe1a40bb4"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/shulker/shulker.png"
+hash = "b856250c4972cb8332800faea24a8e68fe620119cc373ddc29d838b8f0093a66"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/shulker/shulker_black.png"
+hash = "4e0d5ff0546d5219ded4c5b3741823d34b76e157e99ac4900baabf724f9bb9a0"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/shulker/shulker_blue.png"
+hash = "58ec117781e66bd9e7092b6d22dbc8d32da0bfa04796bc16da6554572d9bde3e"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/shulker/shulker_brown.png"
+hash = "fe96f04aa71f1b49857dd314926913e6e84638f7db91488c91085a44ffe29482"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/shulker/shulker_cyan.png"
+hash = "59b19dd3bf2f570e7d9b06cb0c6971c4c7f1e8e958b0aaee6e60311a10b6796f"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/shulker/shulker_gray.png"
+hash = "4042adfa2f027e2bd6606fb65cd9c96d1d90977f06065f4055a33f1666db6283"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/shulker/shulker_green.png"
+hash = "5df1c767ef59af14520e5e712368a66b85f4e2d7495931d5490ea7591496ffac"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/shulker/shulker_light_blue.png"
+hash = "a66af06a8fca027a9707333aa51356739fd290029d1dd8cd0b35226af1c44bbd"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/shulker/shulker_light_gray.png"
+hash = "bc9e1ae78c59d49f18a2305bd99b5bf83d979adb8f45b5d3f895241af685b02a"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/shulker/shulker_lime.png"
+hash = "a2bc4da796d9fe9845521210bcb93cb7b8b68d9e449295a4ca76c740bb15034f"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/shulker/shulker_magenta.png"
+hash = "48fbc41fe03903c13b339d067b7a9d831ae3796f67b599194e6b43141eab6da4"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/shulker/shulker_orange.png"
+hash = "58463137a7eac337699785ad629da6c6057682a611df04a51e6634371d8d47c0"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/shulker/shulker_pink.png"
+hash = "2a9b91f2555f1bf0e6a14580086d49c2ff843e78d6769bb80adc15f070c7d83c"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/shulker/shulker_purple.png"
+hash = "08e5b496eb8e1b824bbc209beabd5da6a47db7c3035cbc11fec78a0eef86a8e6"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/shulker/shulker_red.png"
+hash = "b4b41e6dba9dc5b9df7ff357cf9bd0bf13d5aa25a984e87335b8e17a30d15e0f"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/shulker/shulker_white.png"
+hash = "9c768c06a4ce97a9b6941802979b84ab364c15a1d9b24a4b504634992ba6f2fe"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/shulker/shulker_yellow.png"
+hash = "18bdb8dd1133074d57a2c56b25e15dee1204d31675592aea5d022c3aa30f76c3"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/slime/magmacube.png"
+hash = "1bd3a633299cfdb04579fdf82287df3f1b7c9f3e743b51c1bcd58173b8437275"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/sniffer/sniffer.png"
+hash = "88a629361d1c1656d9421b34305503d45034cf2bf6caeaa5838f914e858caaf7"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/snow_golem.png"
+hash = "28aad5e3187fe2f8402e4548a258e1ea5b4a326bdaaec2a6b7a9dd7cc81098ef"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/spider/cave_spider.png"
+hash = "63226d5261e47f3b154f54814ada5e3bd465115c92b9cd36bdde68a3708e2d27"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/spider/spider.png"
+hash = "bb41c9741efeae72e5cd8fce8350bb4e816cf437ca2a9837f011e2acb47d0688"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/squid/glow_squid.png"
+hash = "630dfdcaf31fc192efe2439ae36a762262d7eda126694630c7db9594ac1df011"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/squid/squid.png"
+hash = "fd1958f05b76a1b238016cfc52dd551826d56787338bd2c7a632c00154081d7a"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/strider/strider.png"
+hash = "35978f9d3ddb51b6f4b10c9e3649933583a47300c9d0fa29b4a7ef10cc3922c9"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/strider/strider_cold.png"
+hash = "2e8f56ebb6dd138cae96d745123b81775bc83fa60256a2a1427a0246effc3967"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/strider/strider_saddle.png"
+hash = "820d11221fbb4d80b475a1f6ed5e7026a704c5b2df8e051a89245af8993fcf64"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/turtle/big_sea_turtle.png"
+hash = "b69ac0afb4df2cae4247cb2b3346188e9154f985fad346af72464bdc8089bc42"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/villager/profession/weaponsmith.png"
+hash = "c10760e2c447da6032b4af10fd78cd196297d6e094cc3f73720e4a4e3d16efd8"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/villager/type/desert.png"
+hash = "272309534db57c413cc4542b8e976ce1b7195a01be539560513c88b6989ed19b"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/villager/villager.png"
+hash = "a500822f6dec7ce7204b69ed2fee802cc76049540dce01c95b14768bc1a5dff8"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/wandering_trader.png"
+hash = "d7ab219c9a838677a3c4ce1abd079d0778a4889b9774e795b860d9d4dacc9892"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/witch.png"
+hash = "56c67d5d1e52f546f60d3e840c76e81b1f3985268263a75598aef13e08dbfec1"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/wolf/wolf.png"
+hash = "94ce51e5b491308d5022a13231345a64cc37b155ed1517392840089a5bfc815e"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/wolf/wolf_angry.png"
+hash = "8873d8106a8cb289bcbb9d6e3621c194acb34205d3bc44204de72d9a915dbe89"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/wolf/wolf_ashen.png"
+hash = "2615adaba4c4ed1bfef16f27f58e6bd25800eed24aa73f21c7b3b3aa4547b317"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/wolf/wolf_ashen_angry.png"
+hash = "1cb02ab9ff361b30b0b15dd988d57f66d78555677517c00acc3a8e16ff81c010"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/wolf/wolf_ashen_tame.png"
+hash = "9c260b7b22f5f0cc37c02b7de0129fd0e6b6475fd0b2d8cb2ca12c2fb18e2c3d"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/wolf/wolf_black.png"
+hash = "b414ed51412ff176bb900cdca51141ffeba866dbbad333a0198d2f4d8ce8b6ee"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/wolf/wolf_black_angry.png"
+hash = "318cd0e7c0e7496676c1dabf865ee155553bf6ea274c8efea9b4bcf93487e0ec"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/wolf/wolf_black_tame.png"
+hash = "123ffe267e882f0fd17356d47e4af1156073d0e631121303b00423621e004a68"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/wolf/wolf_chestnut.png"
+hash = "5c946688cec8bc6e81197a1f71656153610e2f840548986667443b96a97c6fc6"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/wolf/wolf_chestnut_angry.png"
+hash = "9b234822142c2961c9cc4f2d368e4a0e4aad644b00d578d16f4ba48b9b235c03"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/wolf/wolf_chestnut_tame.png"
+hash = "8a0b5ccd0968013db5d0444cb7b1a978d80fc8a2e76fadaca74503f4614ac878"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/wolf/wolf_rusty.png"
+hash = "4b5701a777562b3c2cf03d3186e0b90bf45274ef7c4933df1fe2fc6c58331cd7"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/wolf/wolf_rusty_angry.png"
+hash = "e5122bcf56360d49db7e6ff798a9a93311112f65131f8ef44ba5f11598393688"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/wolf/wolf_rusty_tame.png"
+hash = "2e4f5ca9265b3bcf163f0749adda0372c0d97f91d13256a20afb0b9d803eb608"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/wolf/wolf_snowy.png"
+hash = "099a24992848b7fd7f65591711c018e301972d9917517687cade3e0f89fc7b4d"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/wolf/wolf_snowy_angry.png"
+hash = "45eab9ad31c709fcdd0b7aaa07ae699c7184d6a7b087b040c6d8b23870ed876d"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/wolf/wolf_snowy_tame.png"
+hash = "f3c1f670ba8bd047dd74fb36ca5602d98fedb31853d5da54bfcf87ac1ce534ed"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/wolf/wolf_spotted.png"
+hash = "d853ca0c5f9da64cdbb34edb917c28541c19f10af26b5156b6e31811b8976a72"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/wolf/wolf_spotted_angry.png"
+hash = "f272cf40ada2ec97e7dea73fba53c65088c624df6ef064a70389bbf334b74dd0"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/wolf/wolf_spotted_tame.png"
+hash = "25b86321586efca8a1c4cb6627c352a3d23e67cffa9914eba440733ba8a47256"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/wolf/wolf_striped.png"
+hash = "35e0702b214db9d6afd636e205587a9ab66d29bfd8ebcb114052ba4d58a4bfcf"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/wolf/wolf_striped_angry.png"
+hash = "65d9df8b4c628c7b094061c1d2003ea520d8cd8f9fc7e4cee9ad48fcba61931f"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/wolf/wolf_striped_tame.png"
+hash = "8865b72aa6068db2590777744e140ac8d041cf779f7b3aeb174d5fda9eea4cd5"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/wolf/wolf_tame.png"
+hash = "7bf652786bdd591e94cacdbbd6cea26209abaa415b86501a24b2f4962bcb89be"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/wolf/wolf_woods.png"
+hash = "73dc32145b64b580c1b639ef351566799e889b6bfce16957a40d8cea7e39a435"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/wolf/wolf_woods_angry.png"
+hash = "63ec65e0cad288e37d1309d4865c0c56a44690f63f4d3eeead315922bb3625af"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/wolf/wolf_woods_tame.png"
+hash = "07fe8f21c366af9fe82ae5988fee879ed9b3c6706885d7f916fd146f79a46406"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/zombie/drowned.png"
+hash = "c6a874f39f5fe1ee782f90f2dfe1c7e831e16c153a91bc488c3cfccaae16e6e6"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/zombie/drowned_outer_layer.png"
+hash = "c493c87f6a01f5a53cc86250ff3d1ce488c3014e2ee9adf5b5290e20ee6bf3d4"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/zombie/husk.png"
+hash = "81ed310da871f0f842612c84efb00834da0ad0ce997a2e4341b27cedab8b392b"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/zombie/zombie.png"
+hash = "2dc15833b37d00a0389ce0e9224d0a385bb602f9973c6b5a7d0f6fc8b2af8932"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/zombie_villager/profession/weaponsmith.png"
+hash = "a923985007532b2e7f0543de26d8e492c2964d0a2ba38074448dfaa26ccc554e"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/zombie_villager/type/desert.png"
+hash = "ac9b983c8da0811163bc609f005d00c354ec915a4bfe8f3f99e02649d7f1d6e4"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/entity/zombie_villager/zombie_villager.png"
+hash = "f7946283affe3c98a1f0f340014062ad629967288a28edb38393fc8e6bfe4013"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/particle/fresh_animations/empty.png"
+hash = "4641130a08a1631d53b7cdcda50f305ae63deca435f7459a42c7c4cdcf2cfa77"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/assets/minecraft/textures/particle/fresh_animations/is_fa_extension.png"
+hash = "419e172fc136ec1d2c17e2e4e5786034568611bb5e3a335e7d963097a9d63873"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/changelog1.10.4.txt"
+hash = "dce55f541ba32ab2c2b884234a444750ed723233ef4c7e9310e6a5fb7ebb2c1f"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/pack.mcmeta"
+hash = "342c56aa26b3fec7ee232da8cbf6e8102928d8351a9a0e54f513ddf9d088ab02"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1/pack.png"
+hash = "c1dcd628abed3a45828aa9ae8aac2f5ecda9b034193d3be443f5ca0a9bbedc96"
 
 [[files]]
 file = "resourcepacks/Viva-RP Music.zip"
