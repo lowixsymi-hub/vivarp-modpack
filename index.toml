@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/punchy/merged_animation_selection.json"
+hash = "77d9559a19f69d73f952177d2047760a9e55be219fee015658effaaa8783eb46"
+
+[[files]]
+file = "config/punchy/punchy_config.json"
+hash = "afa785cc842a02006b390676c44e5ab910f357eaf1a79dcaa01eda0569cab8f8"
+
+[[files]]
+file = "config/punchy/triggerable-keybindings.json"
+hash = "f07bb7a059a2b0416a62fc1e2932ca459f807c9e3937dba42d7a7c9dec47bd04"
+
+[[files]]
 file = "mods/CreativeCore_FORGE_v2.12.37_mc1.20.1.jar"
 hash = "c6073eb7423f92709aef1e934da00983f6d4e8f05508ba0daa7287600869b441"
 
