@@ -45,6 +45,10 @@ file = "mods/VisualWorkbench-v8.0.1-1.20.1-Forge.jar"
 hash = "915f226fa14ce274879487dd14f38af5c57e1a9ada85099501134c4c8a03897a"
 
 [[files]]
+file = "mods/architectury-9.2.14-forge.jar"
+hash = "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af"
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "12c4913f51659fc1c0978004f411d9d9b878f589367e4fbe17ca5da60acbbce8"
 metafile = true
@@ -118,6 +122,10 @@ hash = "4f1014d242c944771d798206c2d38d44d9d77148c4bb7a1f141aa405e7afd9d4"
 [[files]]
 file = "mods/kotlinforforge-4.12.0-all.jar"
 hash = "6a66c6a68ec09f8717cdbf06883394f0ee24d7cd826b7134a0f81839e8e720ae"
+
+[[files]]
+file = "mods/lithostitched-1.8.0+beta5-fabric-21.1.jar"
+hash = "8758556cf0832429d56865717007330c6f7f503f5126f6cf801657f8166de9e3"
 
 [[files]]
 file = "mods/modernfix-forge-5.27.77+mc1.20.1.jar"
