@@ -132,6 +132,10 @@ file = "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar"
 hash = "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691"
 
 [[files]]
+file = "mods/powergrid-mc1.20.1-0.6.1.jar"
+hash = "338dd3a59554f03cf0d76d7c0117fcc235f15d27d5130ac80de82b3a08e1f6b5"
+
+[[files]]
 file = "mods/punchy-2.7d-forge-1.20.1.jar"
 hash = "180347c82d6b738cdb8bc5aef2f84f1a34781d20e3aea03a28f3ad84ff82ec76"
 
@@ -150,6 +154,10 @@ hash = "57ce3c7d5abe724d9fb82f3d068b7717a56b94b7d3ea98f90a2f9ca61c8f57b1"
 [[files]]
 file = "mods/tacz-emf-compat-1.0.1.jar"
 hash = "37456ef1ff1347d981081565ae5ff26bad12614311e627680920d13ecf110362"
+
+[[files]]
+file = "mods/tectonic-3.0.17-forge-1.20.1.jar"
+hash = "c6de479b27cf090510de3f029918afc9fe17226981bd703e0002f7a25f4d8969"
 
 [[files]]
 file = "mods/timeless-and-classics-zero.pw.toml"
