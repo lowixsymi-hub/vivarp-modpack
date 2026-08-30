@@ -124,8 +124,8 @@ file = "mods/kotlinforforge-4.12.0-all.jar"
 hash = "6a66c6a68ec09f8717cdbf06883394f0ee24d7cd826b7134a0f81839e8e720ae"
 
 [[files]]
-file = "mods/lithostitched-1.8.0+beta5-fabric-21.1.jar"
-hash = "8758556cf0832429d56865717007330c6f7f503f5126f6cf801657f8166de9e3"
+file = "mods/lithostitched-forge-1.20.1-1.4.11.jar"
+hash = "c19a5a36c0e6cb3782cf7ca5b9648fb1bce5fc41fd737bed423a1f4971bccf75"
 
 [[files]]
 file = "mods/modernfix-forge-5.27.77+mc1.20.1.jar"
