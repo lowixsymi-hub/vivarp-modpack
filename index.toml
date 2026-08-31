@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/packwiz-installer-forge.toml"
-hash = "d06e8bca7f1e8c8bae6d128f098357819c63c3ae0da3024a3533df7ad48e1283"
+file = "config/packwiz_ard/common.toml"
+hash = "b5710ef9ebe2a12744e6d8a53ce2e75502052dab399a9357911e4a3e86f31a86"
 
 [[files]]
 file = "config/punchy/merged_animation_selection.json"
@@ -15,6 +15,10 @@ hash = "afa785cc842a02006b390676c44e5ab910f357eaf1a79dcaa01eda0569cab8f8"
 [[files]]
 file = "config/punchy/triggerable-keybindings.json"
 hash = "f07bb7a059a2b0416a62fc1e2932ca459f807c9e3937dba42d7a7c9dec47bd04"
+
+[[files]]
+file = "mods/Connector-1.0.0-beta.49+1.20.1.jar"
+hash = "caf19c97c0fce9158e03e354d4ebf556e8f1745c868da5dc4f6b7498727ab29f"
 
 [[files]]
 file = "mods/CreativeCore_FORGE_v2.12.37_mc1.20.1.jar"
@@ -108,6 +112,10 @@ file = "mods/eyemod-3.0.0.jar"
 hash = "510ccd4d070a50d42695cc661f415c25699dd9955a85d4b429861cd2c8687bb3"
 
 [[files]]
+file = "mods/fabric-api-0.92.6+1.11.15+1.20.1.jar"
+hash = "ffb61c81b9025297048fd647902f4c67c016073c0e94da100125e9aa1168c194"
+
+[[files]]
 file = "mods/ferritecore-6.0.1-forge.jar"
 hash = "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54"
 
@@ -138,6 +146,10 @@ hash = "d4be9281c569eb761a5764a27c7733e6cb6a34adaff5392b711edf09bba32636"
 [[files]]
 file = "mods/oculus-mc1.20.1-1.8.0.jar"
 hash = "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef"
+
+[[files]]
+file = "mods/packwiz-ard-fabric-1.0.0-beta.7.jar"
+hash = "6a57ce355b01f160215c1289db0297b7cd1bb63c500b81c04e64eb92c42eb114"
 
 [[files]]
 file = "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar"
