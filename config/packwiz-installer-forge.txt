@@ -1,0 +1,1 @@
+packUrl = "https://github.com/lowixsymi-hub/vivarp-modpack.git/main/pack.toml"
