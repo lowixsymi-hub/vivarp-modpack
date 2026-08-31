@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "supported_formats": [15, 420],
+    "min_format": 15,
+    "max_format": 420,
+    "description": "§e§oFlowers that'll make you cower!§o§e §c§lRedPierrePacks§l§c"
+  }
+}
