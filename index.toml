@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/packwiz_ard/common.toml"
-hash = "b5710ef9ebe2a12744e6d8a53ce2e75502052dab399a9357911e4a3e86f31a86"
-
-[[files]]
 file = "config/punchy/merged_animation_selection.json"
 hash = "77d9559a19f69d73f952177d2047760a9e55be219fee015658effaaa8783eb46"
 
@@ -15,10 +11,6 @@ hash = "afa785cc842a02006b390676c44e5ab910f357eaf1a79dcaa01eda0569cab8f8"
 [[files]]
 file = "config/punchy/triggerable-keybindings.json"
 hash = "f07bb7a059a2b0416a62fc1e2932ca459f807c9e3937dba42d7a7c9dec47bd04"
-
-[[files]]
-file = "mods/Connector-1.0.0-beta.49+1.20.1.jar"
-hash = "caf19c97c0fce9158e03e354d4ebf556e8f1745c868da5dc4f6b7498727ab29f"
 
 [[files]]
 file = "mods/CreativeCore_FORGE_v2.12.37_mc1.20.1.jar"
@@ -112,10 +104,6 @@ file = "mods/eyemod-3.0.0.jar"
 hash = "510ccd4d070a50d42695cc661f415c25699dd9955a85d4b429861cd2c8687bb3"
 
 [[files]]
-file = "mods/fabric-api-0.92.6+1.11.15+1.20.1.jar"
-hash = "ffb61c81b9025297048fd647902f4c67c016073c0e94da100125e9aa1168c194"
-
-[[files]]
 file = "mods/ferritecore-6.0.1-forge.jar"
 hash = "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54"
 
@@ -146,10 +134,6 @@ hash = "d4be9281c569eb761a5764a27c7733e6cb6a34adaff5392b711edf09bba32636"
 [[files]]
 file = "mods/oculus-mc1.20.1-1.8.0.jar"
 hash = "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef"
-
-[[files]]
-file = "mods/packwiz-ard-fabric-1.0.0-beta.7.jar"
-hash = "6a57ce355b01f160215c1289db0297b7cd1bb63c500b81c04e64eb92c42eb114"
 
 [[files]]
 file = "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar"
@@ -333,182 +317,6 @@ hash = "657160efea8dfe68c96dde72a389e38aeb0f6f2b725c0a28b7f5c7ff97b7ffc5"
 [[files]]
 file = "resourcepacks/FA+Player-v1/player_changelog1.1.txt"
 hash = "55be6686634fb782de2752f0620e6d1d1e45378eb1a48fe176187df8b19257e3"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/optifine/cem/creeper.jem"
-hash = "e0d498c7fd4eb2ae2df8becc9aae19db6c73da772f0acf902b8689acc1efc3b8"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/optifine/cem/creeper_charge.jem"
-hash = "424ad2f563cd9540ab0f4f79da211a9165fc802f4de77584b8f77f55e4897dd5"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/optifine/cem/head_creeper.jem"
-hash = "7faea2b46abd6fedae32465b79eabbeac9da2db1242e540f470ad64078f181f0"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/optifine/emissive.properties"
-hash = "400c2533d1f4d94ee1d1c747e98196b4769eda86c105ef8aef32b0f3eaab722e"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/optifine/random/entity/creeper/creeper.properties"
-hash = "de9e229c74167649d54e94aa9f757f21105cdf2920d7199907a1c3908168ce3b"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/optifine/random/entity/creeper/creeper10.png"
-hash = "22bf69c96dbbb12f87a3718ee708991a4d8da6655819288eb96419961030b047"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/optifine/random/entity/creeper/creeper11.png"
-hash = "e594a35b206273ca40992260a58e7785bf78d69f03de11ffa6a18b9d79ffff37"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/optifine/random/entity/creeper/creeper12.png"
-hash = "f63ab74a960341c1eff069c486cf79df40b4d888f171ab450b9c55613f55de21"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/optifine/random/entity/creeper/creeper13.png"
-hash = "3c73ca5f780b6c9ae6f93f13e33a660096fc4d9a6c732c327f00be1857a86956"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/optifine/random/entity/creeper/creeper14.png"
-hash = "5ef88e88b6dc58648b6d27fc6b7d7d39cf6a8c8b7d88c35997ba2c0b29ba8395"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/optifine/random/entity/creeper/creeper15.png"
-hash = "28b052be62c2d6b7fd0e0180f7633c75cee1f7131495583a5973b380efd7286d"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/optifine/random/entity/creeper/creeper16.png"
-hash = "035f92618cc76f0c14b99824c78285a41de4568ca115cf07121cf8ff051e6d9a"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/optifine/random/entity/creeper/creeper17.png"
-hash = "24e9aa15384f9ad526d49a6aab0014cde46a59cb672f3a1bedd06e32caac8f95"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/optifine/random/entity/creeper/creeper18.png"
-hash = "13c57a4242bbd282ed91c3fb13f54d2c56747f34a05d1e3a3598789db2fa82aa"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/optifine/random/entity/creeper/creeper19.png"
-hash = "bdc0e363f1ffced13ae9b82ef950dac939a94e75d938730090008af01de04ded"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/optifine/random/entity/creeper/creeper2.png"
-hash = "2e24be5bd10a64b0d22b5d07af80c7a3a05f487895245df65c927bbba23fe818"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/optifine/random/entity/creeper/creeper20.png"
-hash = "f24cd416820d5ebd4074119f95ef1389e9825c54e998a74a52872d02ce1b1d3c"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/optifine/random/entity/creeper/creeper21.png"
-hash = "93f0b85e4ba2b1ec76294e2fba2a37e77d476d1b2a51f1448d4aeace97cc970a"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/optifine/random/entity/creeper/creeper22.png"
-hash = "0cf7cdb94c9eac569178e10ac26abd59741ccef899d8e2513f492963e9dd3bb7"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/optifine/random/entity/creeper/creeper22_e.png"
-hash = "f69cad3a62de5d9e79fe6f8fdfdba8b0b33225845fb8caee64705327064ac6a3"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/optifine/random/entity/creeper/creeper23.png"
-hash = "abce20d2927fe3130bfe0f88b4b88785535b3d7560cf9445a15decc0dd9fd8f8"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/optifine/random/entity/creeper/creeper23_e.png"
-hash = "a58d3d33d25b98fcc4cad6c32a3262083ce1f1c855f5cce49c01c508ecaef206"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/optifine/random/entity/creeper/creeper24.png"
-hash = "a9b217e199a8fe379ddbbfe7eb691460e196155f88a2ef2428d6d549e314c2c0"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/optifine/random/entity/creeper/creeper3.png"
-hash = "2ae4cb0f7d6b55cee8694d777f1b1d501d2239759b7fd4d50e541c7010e5d7d3"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/optifine/random/entity/creeper/creeper4.png"
-hash = "8c857b17b17ed6d8df77bc870fbe31b6ed16583161dc6e2c772a782594df24fc"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/optifine/random/entity/creeper/creeper5.png"
-hash = "ac0d7e03e972f2e3b6625d404e3930e958a4cd69835f5ac3160b754f6f7828b0"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/optifine/random/entity/creeper/creeper6.png"
-hash = "05546d2ed04fa33e6c010421ab40e9319bce5663de2a3c8ad7d639cfc632f519"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/optifine/random/entity/creeper/creeper7.png"
-hash = "d5b07ff826fd6d5698314eec4b1ef0c625ac410e78045dfe00cccecd960101a8"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/optifine/random/entity/creeper/creeper8.png"
-hash = "3071ec18994ce3d181690f2e2495f1dc1cc53c81efd2a2193f288c7dc36f8e52"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/optifine/random/entity/creeper/creeper9.png"
-hash = "645b032fcedca4db400e76b76029b55f777389e21d618405785be11d974319e5"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/sounds/mob/creeper/death.ogg"
-hash = "aff892df11a74b43b700076684b9c698864f17ae2f970c707d5ca72a1423c964"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/sounds/mob/creeper/say1.ogg"
-hash = "180a864e003f76914471bdd38d49ad91571964e61ef3c83da2f91462ef47e3db"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/sounds/mob/creeper/say2.ogg"
-hash = "9500a984740b2d4c3dafc25ad8bde7d7c7f1f1a917c4028f6fb3c22849c15c6c"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/sounds/mob/creeper/say3.ogg"
-hash = "297d7f8fec67afa6ff7cc9c7b7efbef717060d71bb3c7eafbd446f9d94162b3b"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/sounds/mob/creeper/say4.ogg"
-hash = "3db14ca097cc66e5719946b9d8284af4ee644f2e6fe594422d061082addc626b"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/textures/entity/creeper/creeper.png"
-hash = "b97fc14e6cec67cd9a21e0c49930b905dbef65e6fd73abb973744271240a739f"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/textures/entity/creeper/creeper_charge.png"
-hash = "cede187cbd375961b11bfa965ad4775ca4dda66165453308f9cb70ed8af268f0"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/textures/entity/creeper/head_creeper.png"
-hash = "5d78fee9d2c5ef189d0d67d6c7e14dff65199c5580e597a00fe38f62c96caee7"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/textures/entity/decorated_pot/danger_pottery_pattern.png"
-hash = "714fa91450458fbcbc5618aeff5b131ebc325d19e2ee183a56b628ff41fc453c"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/textures/item/creeper_spawn_egg.png"
-hash = "8da592c440df874b6822379765ea62f6978665e7824d535ef273c98e36717d33"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/textures/item/danger_pottery_sherd.png"
-hash = "e66a74a8b1cefdebbaec5cf50d007b6357ee0f5144e1efadda8542e3f79305eb"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/assets/minecraft/textures/painting/creebet.png"
-hash = "935b8359d6431efd863983c1080604980ce507aa76a8a4f4b21a4b3248c94f4e"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/pack.mcmeta"
-hash = "e4f926f61a3152a3b155cf97304a0d6db3f16695c3849b03eed2c510812c72ce"
-
-[[files]]
-file = "resourcepacks/Floral Creepers/pack.png"
-hash = "1c63e75e44bf5d9347328eef55705db5ebe88301bdf12d45976bacf42ff246b6"
 
 [[files]]
 file = "resourcepacks/FreshAnimations_v1/20-3/assets/minecraft/optifine/cem/bat_animations.jpm"
@@ -2569,11 +2377,3 @@ hash = "342c56aa26b3fec7ee232da8cbf6e8102928d8351a9a0e54f513ddf9d088ab02"
 [[files]]
 file = "resourcepacks/FreshAnimations_v1/pack.png"
 hash = "c1dcd628abed3a45828aa9ae8aac2f5ecda9b034193d3be443f5ca0a9bbedc96"
-
-[[files]]
-file = "resourcepacks/Viva-RP Music.zip"
-hash = "5f0932f4ee666dd4098463895cdb92e57fa4dc2e8dbbb3519d21a8b9826cbecf"
-
-[[files]]
-file = "resourcepacks/custom-crosshair-mctools-2.zip"
-hash = "ef0c10108202383e4ce978645699d9d27cf85e0ae5be6199b768317e2337011a"
