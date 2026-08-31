@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/packwiz-installer-forge.txt"
-hash = "dd75150ee6ab849fb84c3fba2127e6a546354ef4c46066aa31aa6b9a93e7aeed"
+file = "config/packwiz-installer-forge.toml"
+hash = "d06e8bca7f1e8c8bae6d128f098357819c63c3ae0da3024a3533df7ad48e1283"
 
 [[files]]
 file = "config/punchy/merged_animation_selection.json"
