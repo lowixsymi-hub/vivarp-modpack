@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/modpack-update-checker/config.toml"
+hash = "7759e97687b157d1280e6a09aa10307021c0baf026ba6a2f7534bde32c510c7a"
+
+[[files]]
 file = "config/punchy/merged_animation_selection.json"
 hash = "77d9559a19f69d73f952177d2047760a9e55be219fee015658effaaa8783eb46"
 
@@ -132,6 +136,10 @@ file = "mods/modernfix-forge-5.27.77+mc1.20.1.jar"
 hash = "d4be9281c569eb761a5764a27c7733e6cb6a34adaff5392b711edf09bba32636"
 
 [[files]]
+file = "mods/modpack-update-checker-1.20.1-forge-0.15.6.jar"
+hash = "96613321ff78a6275d6f9a10cf87e31140332425add2da4c712b92a168b527ea"
+
+[[files]]
 file = "mods/oculus-mc1.20.1-1.8.0.jar"
 hash = "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef"
 
@@ -185,6 +193,10 @@ metafile = true
 [[files]]
 file = "mods/voicechat-forge-1.20.1-2.6.17.jar"
 hash = "3652b89e06f69460a8f05e0bd8fcf2f74a5eb54e2d7296bb13f54cc8b67ef761"
+
+[[files]]
+file = "mods/xaerominimap-forge-1.20.1-26.4.2.jar"
+hash = "8143f332ed20a61a518692b42c793e021b6bd2d0d9d61cf3938fb9cfa07eb59c"
 
 [[files]]
 file = "resourcepacks/FA+Player-v1/21-2/assets/minecraft/emf/cem/a_player_variables.jpm"
