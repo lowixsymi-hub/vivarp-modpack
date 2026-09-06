@@ -1,8 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/modpack-update-checker/config.json"
+hash = "44cb0ee1a5622290be11ea4139185a3c0cfa70de33851db6af531574aec9292f"
+
+[[files]]
 file = "config/modpack-update-checker/config.toml"
-hash = "7759e97687b157d1280e6a09aa10307021c0baf026ba6a2f7534bde32c510c7a"
+hash = "1acc1433bdf4fa6df4e0753174222d784e835ed583096ebd523b8518e94dda7e"
+
+[[files]]
+file = "config/modpack-update-checker/modpack-info.txt"
+hash = "9d31432f014c5761509a066266443c90fae7b4fcc34ee50303f90f54696d2cf3"
 
 [[files]]
 file = "config/punchy/merged_animation_selection.json"
