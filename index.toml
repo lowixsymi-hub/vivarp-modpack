@@ -29,6 +29,10 @@ file = "mods/CreativeCore_FORGE_v2.12.37_mc1.20.1.jar"
 hash = "c6073eb7423f92709aef1e934da00983f6d4e8f05508ba0daa7287600869b441"
 
 [[files]]
+file = "mods/EnhancedVisuals_FORGE_v1.8.33_mc1.20.1.jar"
+hash = "432a9e565e94ff3e1ecbd1ea00b387eac1d49c06dd61646a92e5fce65fdc5c23"
+
+[[files]]
 file = "mods/FarmersDelight-1.20.1-1.3.2.jar"
 hash = "47aed94bb9192c4978fe199f9d3ca5895aeccfbe5b5a0869fdf3aa011c2641f7"
 
@@ -49,6 +53,10 @@ file = "mods/PuzzlesLib-v8.1.33-1.20.1-Forge.jar"
 hash = "f3077a9f817629b8e8929c1951042d1a1adc62d30b72adebd54d2b074a4faf4f"
 
 [[files]]
+file = "mods/ShoulderSurfing-Forge-1.20.1-5.0.11.jar"
+hash = "b26103fb6dda529c89990966fde9af6bba8a7f96c5366f5851f2ae0049864f05"
+
+[[files]]
 file = "mods/Trin Parts Pack-1.20.1-2.28.0.jar"
 hash = "115dd9f14e595ee6adfb51a6491ad73d1994b20f967ac7b7ae99759c45961a5b"
 
@@ -59,6 +67,10 @@ hash = "7fd904e45c37ad6e3d3535e08ca2367b191a7f07e20ac8add0517c6bd9bba3f7"
 [[files]]
 file = "mods/VisualWorkbench-v8.0.1-1.20.1-Forge.jar"
 hash = "915f226fa14ce274879487dd14f38af5c57e1a9ada85099501134c4c8a03897a"
+
+[[files]]
+file = "mods/alexsmobs-1.22.9.jar"
+hash = "16bc5bcc19db9029c24f951346ec71098e6f5b0afef96e61894a2e9407aad37c"
 
 [[files]]
 file = "mods/architectury-9.2.14-forge.jar"
@@ -124,6 +136,10 @@ file = "mods/ferritecore-6.0.1-forge.jar"
 hash = "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54"
 
 [[files]]
+file = "mods/flowing_fluids-1.0.6-1.20.1-forge.jar"
+hash = "2b17c0a93f1bd1bed87b5b50c4bba486a5c879aab4cf2b3240eb8861cd5f2f23"
+
+[[files]]
 file = "mods/framework-forge-1.20.1-0.8.0.jar"
 hash = "37c267f46d8b8dfa81bae8c9fa9fa6467e456cadecae10722ee91b43437f25a0"
 
@@ -172,12 +188,20 @@ file = "mods/refurbished_furniture-forge-1.20.1-1.0.20.jar"
 hash = "480546202aa21fa07e6b1571f3e3263e5690e9804afb7c35984642bcf473bc6e"
 
 [[files]]
+file = "mods/skinlayers3d-forge-1.11.2-mc1.20.1.jar"
+hash = "2d35eff3e2642e8a6f7fb4cc7461211699ee2e32b9644e0d3b3bd6ba1574551c"
+
+[[files]]
 file = "mods/smoothboot(reloaded)-mc1.20.1-0.0.4.jar"
 hash = "5a0d2682493ffa7b140a7b81f0d1e70c7536c97969397cf9e718e31391b5b9d5"
 
 [[files]]
 file = "mods/sound-physics-remastered-forge-1.20.1-1.4.10.jar"
 hash = "57ce3c7d5abe724d9fb82f3d068b7717a56b94b7d3ea98f90a2f9ca61c8f57b1"
+
+[[files]]
+file = "mods/superbwarfare-0.8.9.1-hotfix-mc1.20.1-993063bed-all.jar"
+hash = "3aaf4c239bc0fb31f9217927a44d74071d904d1dd03c5308ca3395ecd67d86dc"
 
 [[files]]
 file = "mods/tacz-emf-compat-1.0.1.jar"
