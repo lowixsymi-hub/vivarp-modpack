@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "44cb0ee1a5622290be11ea4139185a3c0cfa70de33851db6af531574aec9292f"
+hash = "1162fc0d5f497238e12f050deedfaa63c2f536e6d1967046caadefd43fc36019"
 
 [[files]]
 file = "config/modpack-update-checker/config.toml"
-hash = "1acc1433bdf4fa6df4e0753174222d784e835ed583096ebd523b8518e94dda7e"
+hash = "e6a30f3455d874c88ec7331b21c3d9499a1b4e19af761da6a133a06dd524b867"
 
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"
@@ -88,6 +88,10 @@ metafile = true
 [[files]]
 file = "mods/citadel-2.6.3-1.20.1.jar"
 hash = "56c7ab87348a5292583aac787b6cf11b5193e77f02af1d17ea75a96f8640b3ce"
+
+[[files]]
+file = "mods/coroutil-forge-1.20.1-1.3.7.jar"
+hash = "11448808a42c17425cf2ea39701841008683d6ad6e2838a34eef0253251a870f"
 
 [[files]]
 file = "mods/corpse-forge-1.20.1-1.0.23.jar"
