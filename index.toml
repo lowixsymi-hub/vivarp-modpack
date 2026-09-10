@@ -69,6 +69,10 @@ file = "mods/VisualWorkbench-v8.0.1-1.20.1-Forge.jar"
 hash = "915f226fa14ce274879487dd14f38af5c57e1a9ada85099501134c4c8a03897a"
 
 [[files]]
+file = "mods/Waves-1.20.1-1.6.1.jar"
+hash = "aa0b0c1c5874da16e23b738f76bb5f83f0d312cdc1f9c67388301341d58e57ff"
+
+[[files]]
 file = "mods/alexsmobs-1.22.9.jar"
 hash = "16bc5bcc19db9029c24f951346ec71098e6f5b0afef96e61894a2e9407aad37c"
 
@@ -233,6 +237,10 @@ metafile = true
 [[files]]
 file = "mods/voicechat-forge-1.20.1-2.6.17.jar"
 hash = "3652b89e06f69460a8f05e0bd8fcf2f74a5eb54e2d7296bb13f54cc8b67ef761"
+
+[[files]]
+file = "mods/weather2-1.20.1-2.8.3.jar"
+hash = "5eb828f93b2eb370d7f38ad1893739caf7655f32d58dbbdaabae6075ede635db"
 
 [[files]]
 file = "mods/xaerominimap-forge-1.20.1-26.4.2.jar"
