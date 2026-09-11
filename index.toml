@@ -212,10 +212,6 @@ file = "mods/sound-physics-remastered-forge-1.20.1-1.4.10.jar"
 hash = "57ce3c7d5abe724d9fb82f3d068b7717a56b94b7d3ea98f90a2f9ca61c8f57b1"
 
 [[files]]
-file = "mods/superbwarfare-0.8.9.1-hotfix-mc1.20.1-993063bed-all.jar"
-hash = "3aaf4c239bc0fb31f9217927a44d74071d904d1dd03c5308ca3395ecd67d86dc"
-
-[[files]]
 file = "mods/tacz-emf-compat-1.0.1.jar"
 hash = "37456ef1ff1347d981081565ae5ff26bad12614311e627680920d13ecf110362"
 
