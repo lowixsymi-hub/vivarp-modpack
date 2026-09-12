@@ -37,7 +37,8 @@
   "firstPersonModelHidePitch": 60.0,
   "itemBlacklist": [
     "tacz:modern_kinetic_gun",
-    "tacz:*"
+    "tacz:*",
+    "superbwarfare:*"
   ],
   "blacklistApplyDualHanded": {},
   "animationPackSelections": {},

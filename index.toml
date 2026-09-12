@@ -18,7 +18,7 @@ hash = "77d9559a19f69d73f952177d2047760a9e55be219fee015658effaaa8783eb46"
 
 [[files]]
 file = "config/punchy/punchy_config.json"
-hash = "afa785cc842a02006b390676c44e5ab910f357eaf1a79dcaa01eda0569cab8f8"
+hash = "faeaa4594c371acbfb73df36b92275cca2f80a6215344d9e8a17d2c4c86778ab"
 
 [[files]]
 file = "config/punchy/triggerable-keybindings.json"
@@ -198,6 +198,10 @@ hash = "180347c82d6b738cdb8bc5aef2f84f1a34781d20e3aea03a28f3ad84ff82ec76"
 [[files]]
 file = "mods/refurbished_furniture-forge-1.20.1-1.0.20.jar"
 hash = "480546202aa21fa07e6b1571f3e3263e5690e9804afb7c35984642bcf473bc6e"
+
+[[files]]
+file = "mods/rhino-forge-2001.2.3-build.10.jar"
+hash = "fed2211429301bf043864183cab9ab8e92d4cc4dbb9e488ce6c75217c54584a6"
 
 [[files]]
 file = "mods/skinlayers3d-forge-1.11.2-mc1.20.1.jar"
