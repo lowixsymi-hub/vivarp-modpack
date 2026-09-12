@@ -168,6 +168,10 @@ file = "mods/kotlinforforge-4.12.0-all.jar"
 hash = "6a66c6a68ec09f8717cdbf06883394f0ee24d7cd826b7134a0f81839e8e720ae"
 
 [[files]]
+file = "mods/kubejs-forge-2001.6.5-build.26.jar"
+hash = "1769312192fbf9d72f45054ba61130523bfb471b5f480a4bff8c210ec09400bb"
+
+[[files]]
 file = "mods/lithostitched-forge-1.20.1-1.4.11.jar"
 hash = "c19a5a36c0e6cb3782cf7ca5b9648fb1bce5fc41fd737bed423a1f4971bccf75"
 
@@ -241,10 +245,6 @@ metafile = true
 [[files]]
 file = "mods/voicechat-forge-1.20.1-2.6.17.jar"
 hash = "3652b89e06f69460a8f05e0bd8fcf2f74a5eb54e2d7296bb13f54cc8b67ef761"
-
-[[files]]
-file = "mods/weather2-1.20.1-2.8.3.jar"
-hash = "5eb828f93b2eb370d7f38ad1893739caf7655f32d58dbbdaabae6075ede635db"
 
 [[files]]
 file = "mods/xaerominimap-forge-1.20.1-26.4.2.jar"
