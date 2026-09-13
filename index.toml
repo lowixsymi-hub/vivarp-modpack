@@ -188,6 +188,10 @@ file = "mods/oculus-mc1.20.1-1.8.0.jar"
 hash = "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef"
 
 [[files]]
+file = "mods/philipps_alarm_mod-2.1.0-forge-1.20.1.jar"
+hash = "643d868af311cebe3ea0d62e0997ea3d31207c65913ba52cc95524ebb7cdf62a"
+
+[[files]]
 file = "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar"
 hash = "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691"
 
