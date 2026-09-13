@@ -140,6 +140,10 @@ file = "mods/emf-compat-core-1.20.1-1.1.2.jar"
 hash = "872d86cd0b9e697b3fb672ffa98d0c0c1287f55d3500eb34a5a665b6dcc2f0ba"
 
 [[files]]
+file = "mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar"
+hash = "ffaac96e37e6fa950080e2eb4aa361aa8b7bd6c4370862f39893ac2d266d7c14"
+
+[[files]]
 file = "mods/entity_model_features-3.2.4-1.20.1-forge.jar"
 hash = "0984570913a154ef65ebca54ac797fec11721c5e24aeceeb285b8ca2f562b35e"
 
@@ -226,6 +230,10 @@ hash = "480546202aa21fa07e6b1571f3e3263e5690e9804afb7c35984642bcf473bc6e"
 [[files]]
 file = "mods/rhino-forge-2001.2.3-build.10.jar"
 hash = "fed2211429301bf043864183cab9ab8e92d4cc4dbb9e488ce6c75217c54584a6"
+
+[[files]]
+file = "mods/simpleradio-forge-1.20.1-4.5.7.9.jar"
+hash = "fccccdfa239240de4ed4dfe4ba6535c4791a0f99bc86dee4e7e26e4aa6679391"
 
 [[files]]
 file = "mods/skinlayers3d-forge-1.11.2-mc1.20.1.jar"
