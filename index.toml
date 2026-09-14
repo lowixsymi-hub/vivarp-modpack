@@ -192,10 +192,6 @@ file = "mods/kubejs-forge-2001.6.5-build.26.jar"
 hash = "1769312192fbf9d72f45054ba61130523bfb471b5f480a4bff8c210ec09400bb"
 
 [[files]]
-file = "mods/lexiconfig-forge-1.4.21-epic.jar"
-hash = "df5775bc100a7a01533528736b1900c710def97397bfc80c51e5158ced695540"
-
-[[files]]
 file = "mods/lithostitched-forge-1.20.1-1.4.11.jar"
 hash = "c19a5a36c0e6cb3782cf7ca5b9648fb1bce5fc41fd737bed423a1f4971bccf75"
 
@@ -234,10 +230,6 @@ hash = "480546202aa21fa07e6b1571f3e3263e5690e9804afb7c35984642bcf473bc6e"
 [[files]]
 file = "mods/rhino-forge-2001.2.3-build.10.jar"
 hash = "fed2211429301bf043864183cab9ab8e92d4cc4dbb9e488ce6c75217c54584a6"
-
-[[files]]
-file = "mods/simpleradio-forge-1.20.1-4.5.7.9.jar"
-hash = "fccccdfa239240de4ed4dfe4ba6535c4791a0f99bc86dee4e7e26e4aa6679391"
 
 [[files]]
 file = "mods/skinlayers3d-forge-1.11.2-mc1.20.1.jar"
