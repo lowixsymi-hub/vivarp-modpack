@@ -192,6 +192,10 @@ file = "mods/kubejs-forge-2001.6.5-build.26.jar"
 hash = "1769312192fbf9d72f45054ba61130523bfb471b5f480a4bff8c210ec09400bb"
 
 [[files]]
+file = "mods/lexiconfig-forge-1.4.21-epic.jar"
+hash = "df5775bc100a7a01533528736b1900c710def97397bfc80c51e5158ced695540"
+
+[[files]]
 file = "mods/lithostitched-forge-1.20.1-1.4.11.jar"
 hash = "c19a5a36c0e6cb3782cf7ca5b9648fb1bce5fc41fd737bed423a1f4971bccf75"
 
