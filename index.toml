@@ -172,6 +172,10 @@ file = "mods/gml-4.0.11-all.jar"
 hash = "4f1014d242c944771d798206c2d38d44d9d77148c4bb7a1f141aa405e7afd9d4"
 
 [[files]]
+file = "mods/harmopolice-1.0.0.jar"
+hash = "d07d5c43161f236ed104d7529a0f6676839254822d9263668d056c547430189c"
+
+[[files]]
 file = "mods/hospitals-4.0.0-forge-1.20.1.jar"
 hash = "82d4f8422a0516246166a5716584363abb0e67487469c78b48afa76bae78ebfe"
 
@@ -192,6 +196,14 @@ file = "mods/lithostitched-forge-1.20.1-1.4.11.jar"
 hash = "c19a5a36c0e6cb3782cf7ca5b9648fb1bce5fc41fd737bed423a1f4971bccf75"
 
 [[files]]
+file = "mods/lrarmor-1.20.1-0.1.4.4.jar"
+hash = "cae5f556c1722de1b1cc3ff112eef9cd6054fdc16e77d879eaabadb6bf0a1670"
+
+[[files]]
+file = "mods/mm_armor-1.1.0-forge-1.20.1.jar"
+hash = "f9e401dfafb11353b21d78aebae73564447ba164b86da43ecdd72137be67d8e9"
+
+[[files]]
 file = "mods/modernfix-forge-5.27.77+mc1.20.1.jar"
 hash = "d4be9281c569eb761a5764a27c7733e6cb6a34adaff5392b711edf09bba32636"
 
@@ -210,6 +222,10 @@ hash = "643d868af311cebe3ea0d62e0997ea3d31207c65913ba52cc95524ebb7cdf62a"
 [[files]]
 file = "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar"
 hash = "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691"
+
+[[files]]
+file = "mods/police_mod-1.0.1-forge-1.20.1.jar"
+hash = "65cb1fb5471d158718422388e1d1e42d420f8762177ca3fc227ba13e6d8bb3f1"
 
 [[files]]
 file = "mods/powergrid-mc1.20.1-0.6.1.jar"
