@@ -200,14 +200,6 @@ file = "mods/lithostitched-forge-1.20.1-1.4.11.jar"
 hash = "c19a5a36c0e6cb3782cf7ca5b9648fb1bce5fc41fd737bed423a1f4971bccf75"
 
 [[files]]
-file = "mods/lrarmor-1.20.1-0.1.4.4.jar"
-hash = "cae5f556c1722de1b1cc3ff112eef9cd6054fdc16e77d879eaabadb6bf0a1670"
-
-[[files]]
-file = "mods/mm_armor-1.1.0-forge-1.20.1.jar"
-hash = "f9e401dfafb11353b21d78aebae73564447ba164b86da43ecdd72137be67d8e9"
-
-[[files]]
 file = "mods/modernfix-forge-5.27.77+mc1.20.1.jar"
 hash = "d4be9281c569eb761a5764a27c7733e6cb6a34adaff5392b711edf09bba32636"
 
