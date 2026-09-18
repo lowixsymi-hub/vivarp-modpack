@@ -53,6 +53,10 @@ file = "mods/PuzzlesLib-v8.1.33-1.20.1-Forge.jar"
 hash = "f3077a9f817629b8e8929c1951042d1a1adc62d30b72adebd54d2b074a4faf4f"
 
 [[files]]
+file = "mods/Quick Skin - Forge - 1.20.1-2.6.2.4.jar"
+hash = "59508bb8d87a8bc8f5ad768fce86a12466fab11c512ba434834aa37a45598af9"
+
+[[files]]
 file = "mods/ShoulderSurfing-Forge-1.20.1-5.0.11.jar"
 hash = "b26103fb6dda529c89990966fde9af6bba8a7f96c5366f5851f2ae0049864f05"
 
