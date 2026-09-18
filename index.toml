@@ -216,6 +216,10 @@ file = "mods/oculus-mc1.20.1-1.8.0.jar"
 hash = "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef"
 
 [[files]]
+file = "mods/offlineskins-1.20.1-v1.jar"
+hash = "ac4eb2a373b83a0383cd89e5dbb763f61776415ccb6371ec168365a8ea1bcddf"
+
+[[files]]
 file = "mods/philipps_alarm_mod-2.1.0-forge-1.20.1.jar"
 hash = "643d868af311cebe3ea0d62e0997ea3d31207c65913ba52cc95524ebb7cdf62a"
 
