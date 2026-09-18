@@ -110,6 +110,10 @@ file = "mods/csgrenade-1.20.1-1.5.2.jar"
 hash = "27d6fd4774110c766b2829bc23ed45cd1007d2f325ebde327dac8e0a3a9dd4a1"
 
 [[files]]
+file = "mods/curios-forge-5.14.1+1.20.1.jar"
+hash = "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f"
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "6311134242af3f639923e825caea40821c7e7ee7caadf4105234f5d7fa44ec8b"
 metafile = true
