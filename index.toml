@@ -118,8 +118,9 @@ file = "mods/curios-forge-5.14.1+1.20.1.jar"
 hash = "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f"
 
 [[files]]
-file = "mods/decocraft-3.0.4-1.20.1-slim.jar"
-hash = "2a2554293dea4ea47a95d7b0254d699c3c88ac79ce49c70cbebab829e3c5eeac"
+file = "mods/decocraft.pw.toml"
+hash = "ce8a10d34b2eaa10ba6f4a1b93751617fc16c9f22c95b98aa5479ae46c5da2f4"
+metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
